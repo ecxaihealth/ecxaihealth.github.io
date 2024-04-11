@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kasandra Musović | </title>
+    <link>//localhost:4321/en/author/kasandra-musovic/</link>
+      <atom:link href="//localhost:4321/en/author/kasandra-musovic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kasandra Musović</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
+    <image>
+      <url>//localhost:4321/en/author/kasandra-musovic/avatar_hu7c895f3cbd4d8653fbb3c40d08dc8e63_980518_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kasandra Musović</title>
+      <link>//localhost:4321/en/author/kasandra-musovic/</link>
+    </image>
+    
+  </channel>
+</rss>

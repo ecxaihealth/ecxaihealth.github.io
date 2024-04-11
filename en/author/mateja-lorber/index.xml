@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mateja Lorber | </title>
+    <link>//localhost:4321/en/author/mateja-lorber/</link>
+      <atom:link href="//localhost:4321/en/author/mateja-lorber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mateja Lorber</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
+    <image>
+      <url>//localhost:4321/en/author/mateja-lorber/avatar_hu651c5f3dcf98bb8bba0cb5c52d92537b_16398_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Mateja Lorber</title>
+      <link>//localhost:4321/en/author/mateja-lorber/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mara Pereira Guerreiro | </title>
+    <link>//localhost:4321/en/author/mara-pereira-guerreiro/</link>
+      <atom:link href="//localhost:4321/en/author/mara-pereira-guerreiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mara Pereira Guerreiro</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
+    <image>
+      <url>//localhost:4321/en/author/mara-pereira-guerreiro/avatar_hu77b1324378233ead3fd3a7c90cbbe1a0_126870_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Mara Pereira Guerreiro</title>
+      <link>//localhost:4321/en/author/mara-pereira-guerreiro/</link>
+    </image>
+    
+  </channel>
+</rss>

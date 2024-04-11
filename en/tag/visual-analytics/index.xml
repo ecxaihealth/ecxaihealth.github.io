@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Analytics | </title>
+    <link>//localhost:4321/en/tag/visual-analytics/</link>
+      <atom:link href="//localhost:4321/en/tag/visual-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visual Analytics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <title>Visual Analytics</title>
+      <link>//localhost:4321/en/tag/visual-analytics/</link>
+    </image>
+    
+    <item>
+      <title>Directive Explanations for Monitoring the Risk of Diabetes Onset: Introducing Directive Data-Centric Explanations and Combinations to Support What-If Explorations</title>
+      <link>//localhost:4321/en/publication/02_iui_2023/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/en/publication/02_iui_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enriched conversational XAI methods for healthcare</title>
+      <link>//localhost:4321/en/project/fwo-aris_2023-26/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/en/project/fwo-aris_2023-26/</guid>
+      <description>&lt;p&gt;Main host institution: &lt;strong&gt;KU Leuven&lt;/strong&gt;&lt;br&gt;
+&lt;sub&gt;Supervisor: &lt;em&gt;Katrien Verbert&lt;/em&gt; (Informatics Section, KU Leuven)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;Foreign host institution: &lt;strong&gt;University of Maribor&lt;/strong&gt;&lt;br&gt;
+&lt;sub&gt;Supervisor: &lt;em&gt;Gregor Štiglic&lt;/em&gt; (FHS, University of Maribor)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;Project reference in the Slovenian Current Research Information System (SICRIS): &lt;a href=&#34;https://cris.cobiss.net/ecris/si/en/project/20497&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;br&gt;
+The field of artificial intelligence is increasingly being applied in the healthcare sector, where the latest techniques rely on machine learning. The challenge of understanding these models remains. The use of Explainable Artificial Intelligence (XAI) can make such models more understandable to the end-user. In this project, we aim to use Explainable Artificial Intelligence to enable end-users to explain and justify the predictions and recommendations obtained. In doing so, we will focus primarily on more general, broad, and flexible explanations.&lt;/p&gt;
+&lt;p&gt;This is to enable healthcare professionals to understand the reasoning behind the model used. This would have an impact on both acceptance and confidence in the model. In this project, we will investigate the effectiveness of using conversational explanatory interfaces that are able to explain model decisions in dialogue with the end-user. Finally, we want to investigate how explanations can be tailored to the end-user.&lt;/p&gt;
+&lt;p&gt;The project will be based on an empirical approach in which we will investigate how users interact with the explanatory interface and assess the impact of explanatory methods on model understanding and user confidence. The data collection will involve ten healthcare centers in Slovenia, where we will apply the XAI methods developed in this project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
