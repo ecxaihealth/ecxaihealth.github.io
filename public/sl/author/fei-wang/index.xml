@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fei Wang | </title>
+    <link>http://localhost:4321/sl/author/fei-wang/</link>
+      <atom:link href="http://localhost:4321/sl/author/fei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fei Wang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language>
+    <image>
+      <url>http://localhost:4321/sl/author/fei-wang/avatar_hu12c4fcb9660da842d7fca3c0ab8fd86e_170024_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Fei Wang</title>
+      <link>http://localhost:4321/sl/author/fei-wang/</link>
+    </image>
+    
+  </channel>
+</rss>

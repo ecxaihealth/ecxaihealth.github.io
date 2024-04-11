@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruth Masterson Creber | </title>
+    <link>http://localhost:4321/sl/author/ruth-masterson-creber/</link>
+      <atom:link href="http://localhost:4321/sl/author/ruth-masterson-creber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruth Masterson Creber</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language><lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/sl/author/ruth-masterson-creber/avatar_hua3ded424d8a071a20eed39dae20f6fe9_7177_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ruth Masterson Creber</title>
+      <link>http://localhost:4321/sl/author/ruth-masterson-creber/</link>
+    </image>
+    
+    <item>
+      <title>Nurses’ occupational physical activity and workload in a perioperative intensive care unit in Slovenia</title>
+      <link>http://localhost:4321/sl/publication/07_prevmedrep_2024/</link>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/sl/publication/07_prevmedrep_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

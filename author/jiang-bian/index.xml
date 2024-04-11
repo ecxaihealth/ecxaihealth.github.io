@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiang Bian | </title>
+    <link>//localhost:4321/author/jiang-bian/</link>
+      <atom:link href="//localhost:4321/author/jiang-bian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiang Bian</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:4321/author/jiang-bian/avatar_hu84854eb198e9ca230106372fdaa1b793_35307_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jiang Bian</title>
+      <link>//localhost:4321/author/jiang-bian/</link>
+    </image>
+    
+    <item>
+      <title>Improving primary healthcare workflow using extreme summarization of scientific literature based on generative AI</title>
+      <link>//localhost:4321/publication/05_dshealth_2023/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/publication/05_dshealth_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

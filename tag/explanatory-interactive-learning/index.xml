@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explanatory Interactive Learning | </title>
+    <link>//localhost:4321/tag/explanatory-interactive-learning/</link>
+      <atom:link href="//localhost:4321/tag/explanatory-interactive-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Explanatory Interactive Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <title>Explanatory Interactive Learning</title>
+      <link>//localhost:4321/tag/explanatory-interactive-learning/</link>
+    </image>
+    
+    <item>
+      <title>EXMOS: Explanatory Model Steering Through Multifaceted Explanations and Data Configurations</title>
+      <link>//localhost:4321/publication/09_chi_2024/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/publication/09_chi_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

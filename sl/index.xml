@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:4321/sl/</link>
+      <atom:link href="//localhost:4321/sl/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <title></title>
+      <link>//localhost:4321/sl/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>//localhost:4321/sl/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EXMOS: Explanatory Model Steering Through Multifaceted Explanations and Data Configurations</title>
+      <link>//localhost:4321/sl/publication/10_chi_2024/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/10_chi_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Generative AI to Improve the Performance and Interpretability of Rule-Based Diagnosis of Type 2 Diabetes Mellitus</title>
+      <link>//localhost:4321/sl/publication/09_infor_2024/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/09_infor_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using generative artificial intelligence in bibliometric analysis: 10 years of research trends from the European Resuscitation Congresses</title>
+      <link>//localhost:4321/sl/publication/08_res_plus_2024/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/08_res_plus_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurses’ occupational physical activity and workload in a perioperative intensive care unit in Slovenia</title>
+      <link>//localhost:4321/sl/publication/07_prevmedrep_2024/</link>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/07_prevmedrep_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Care Oriented Smartphone Apps for Type 2 Diabetes: A Comparative Analysis</title>
+      <link>//localhost:4321/sl/publication/06_ceciis_2023/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/06_ceciis_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using heterogeneous sources of data and interpretability of prediction models to explain the characteristics of careless respondents in survey data</title>
+      <link>//localhost:4321/sl/publication/05_scirep_2023/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/05_scirep_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving primary healthcare workflow using extreme summarization of scientific literature based on generative AI</title>
+      <link>//localhost:4321/sl/publication/04_dshealth_2023/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/04_dshealth_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis of Social Media Users’ Emotional Response to Sudden Cardiac Arrest During a Football Broadcast</title>
+      <link>//localhost:4321/sl/publication/03_jama_open_2023/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/03_jama_open_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directive Explanations for Monitoring the Risk of Diabetes Onset: Introducing Directive Data-Centric Explanations and Combinations to Support What-If Explorations</title>
+      <link>//localhost:4321/sl/publication/02_iui_2023/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/02_iui_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of artificial intelligence-based question-answering systems in healthcare</title>
+      <link>//localhost:4321/sl/publication/01_wires_2023/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/01_wires_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>//localhost:4321/sl/contact/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obogatitev pogovornih razložljivih metod umetne inteligence v zdravstvu</title>
+      <link>//localhost:4321/sl/project/fwo-aris_2023-26/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/project/fwo-aris_2023-26/</guid>
+      <description>&lt;p&gt;Prijavitelj: &lt;strong&gt;KU Leuven&lt;/strong&gt;&lt;br&gt;
+&lt;sub&gt;Supervisor: &lt;em&gt;Katrien Verbert&lt;/em&gt; (Informatics Section, KU Leuven)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;Partnerska tuja inštitucija: &lt;strong&gt;Univerza v Mariboru&lt;/strong&gt;&lt;br&gt;
+&lt;sub&gt;Supervisor: &lt;em&gt;Gregor Štiglic&lt;/em&gt; (FZV, Univerza v Mariboru)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;Informacije o projektu v Informacijskem sistemu o raziskovalni dejavnosti v Sloveniji (SICRIS): &lt;a href=&#34;https://cris.cobiss.net/ecris/si/sl/project/20497&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tukaj&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Povzetek&lt;/strong&gt;&lt;br&gt;
+Področje uporabe umetne intelligence se vse bolj uveljavljala in uporablja na področju zdravstvenega varstva v okviru katerega se najnovejše tehnike zanašajo na strojno učenje. Pri tem enega pomembnejših izzivov še vedno predstavlja razlaga delovanja modela pri specifični odločitvi za končnega uporabnika. Z uporabo pojasnjevalne umetne inteligence (Explainable Artificial Intelligence - XAI) je mogoče takšne modele narediti bolj razumljive za končnega uporabnika. V projektu želimo z uporabo pojasnjevalne umetne intelligence končnim uporabnikom omogočiti razlago in utemeljitev napovedi na področju družinskih oz. referenčnih ambulant. Na ta način želimo zdravstvenim delavcem omogočiti, da razumejo postopek odločanje uporabljenega modela, hkrati pa jim ponudimo strnjene informacije na podlagi nanovejše literature s področja odločanja.&lt;/p&gt;
+&lt;p&gt;To bo vplivalo tako na sprejemanje, kot tudi na zaupanje v model. V projektu bomo raziskali učinkovitost uporabe pogovornih razlagalnih vmesnikov, ki so končnim uporabnikom sposobni razložiti odločitve modelov. Nazadnje želimo raziskati tudi, kako je mogoče razlage prilagoditi končnemu uporabniku.&lt;/p&gt;
+&lt;p&gt;Projekt bo temeljil na empiričnem pristopu v okviru katerega bomo preučili kako uporabniki komunicirajo z razlagalnim vmesnikom ter ocenili učinek razlagalnih metod na razumevanje modelov in zaupanje uporabnikov. V zbiranje podatkov bomo vključili deset ambulant v Sloveniji, v katerih bomo testno uporabili metode XAI, razvite v tem projektu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>//localhost:4321/sl/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>//localhost:4321/sl/tour/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
+      <link>//localhost:4321/sl/post/20-12-02-icml-best-paper/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/post/20-12-02-icml-best-paper/</guid>
+      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
+      <link>//localhost:4321/sl/post/20-12-01-wowchemy-prize/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/post/20-12-01-wowchemy-prize/</guid>
+      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:4321/sl/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

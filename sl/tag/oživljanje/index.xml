@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oživljanje | </title>
+    <link>//localhost:4321/sl/tag/o%C5%BEivljanje/</link>
+      <atom:link href="//localhost:4321/sl/tag/o%C5%BEivljanje/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oživljanje</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language><lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <title>Oživljanje</title>
+      <link>//localhost:4321/sl/tag/o%C5%BEivljanje/</link>
+    </image>
+    
+    <item>
+      <title>Sentiment Analysis of Social Media Users’ Emotional Response to Sudden Cardiac Arrest During a Football Broadcast</title>
+      <link>//localhost:4321/sl/publication/03_jama_open_2023/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/03_jama_open_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

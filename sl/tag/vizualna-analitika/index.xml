@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vizualna Analitika | </title>
+    <link>//localhost:4321/sl/tag/vizualna-analitika/</link>
+      <atom:link href="//localhost:4321/sl/tag/vizualna-analitika/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vizualna Analitika</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <title>Vizualna Analitika</title>
+      <link>//localhost:4321/sl/tag/vizualna-analitika/</link>
+    </image>
+    
+    <item>
+      <title>Directive Explanations for Monitoring the Risk of Diabetes Onset: Introducing Directive Data-Centric Explanations and Combinations to Support What-If Explorations</title>
+      <link>//localhost:4321/sl/publication/02_iui_2023/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/publication/02_iui_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obogatitev pogovornih razložljivih metod umetne inteligence v zdravstvu</title>
+      <link>//localhost:4321/sl/project/fwo-aris_2023-26/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sl/project/fwo-aris_2023-26/</guid>
+      <description>&lt;p&gt;Prijavitelj: &lt;strong&gt;KU Leuven&lt;/strong&gt;&lt;br&gt;
+&lt;sub&gt;Supervisor: &lt;em&gt;Katrien Verbert&lt;/em&gt; (Informatics Section, KU Leuven)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;Partnerska tuja inštitucija: &lt;strong&gt;Univerza v Mariboru&lt;/strong&gt;&lt;br&gt;
+&lt;sub&gt;Supervisor: &lt;em&gt;Gregor Štiglic&lt;/em&gt; (FZV, Univerza v Mariboru)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;Informacije o projektu v Informacijskem sistemu o raziskovalni dejavnosti v Sloveniji (SICRIS): &lt;a href=&#34;https://cris.cobiss.net/ecris/si/sl/project/20497&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tukaj&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Povzetek&lt;/strong&gt;&lt;br&gt;
+Področje uporabe umetne intelligence se vse bolj uveljavljala in uporablja na področju zdravstvenega varstva v okviru katerega se najnovejše tehnike zanašajo na strojno učenje. Pri tem enega pomembnejših izzivov še vedno predstavlja razlaga delovanja modela pri specifični odločitvi za končnega uporabnika. Z uporabo pojasnjevalne umetne inteligence (Explainable Artificial Intelligence - XAI) je mogoče takšne modele narediti bolj razumljive za končnega uporabnika. V projektu želimo z uporabo pojasnjevalne umetne intelligence končnim uporabnikom omogočiti razlago in utemeljitev napovedi na področju družinskih oz. referenčnih ambulant. Na ta način želimo zdravstvenim delavcem omogočiti, da razumejo postopek odločanje uporabljenega modela, hkrati pa jim ponudimo strnjene informacije na podlagi nanovejše literature s področja odločanja.&lt;/p&gt;
+&lt;p&gt;To bo vplivalo tako na sprejemanje, kot tudi na zaupanje v model. V projektu bomo raziskali učinkovitost uporabe pogovornih razlagalnih vmesnikov, ki so končnim uporabnikom sposobni razložiti odločitve modelov. Nazadnje želimo raziskati tudi, kako je mogoče razlage prilagoditi končnemu uporabniku.&lt;/p&gt;
+&lt;p&gt;Projekt bo temeljil na empiričnem pristopu v okviru katerega bomo preučili kako uporabniki komunicirajo z razlagalnim vmesnikom ter ocenili učinek razlagalnih metod na razumevanje modelov in zaupanje uporabnikov. V zbiranje podatkov bomo vključili deset ambulant v Sloveniji, v katerih bomo testno uporabili metode XAI, razvite v tem projektu.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
