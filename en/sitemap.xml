@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ecxaihealth.github.io/en/event/example/</loc>
+    <loc>https://ecxaihealth.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -13,10 +13,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/event/example/"
+                href="https://ecxaihealth.github.io/event/example/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/event/</loc>
+    <loc>https://ecxaihealth.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -27,10 +27,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/event/"
+                href="https://ecxaihealth.github.io/event/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication/</loc>
+    <loc>https://ecxaihealth.github.io/publication/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -41,10 +41,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/publication/"
+                href="https://ecxaihealth.github.io/publication/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication-type/article-journal/</loc>
+    <loc>https://ecxaihealth.github.io/publication-type/article-journal/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -55,14 +55,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/publication-type/article-journal/"
+                href="https://ecxaihealth.github.io/publication-type/article-journal/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/association-rule-mining/</loc>
+    <loc>https://ecxaihealth.github.io/tag/association-rule-mining/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/authors/</loc>
+    <loc>https://ecxaihealth.github.io/authors/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -73,18 +73,18 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/authors/"
+                href="https://ecxaihealth.github.io/authors/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/classification/</loc>
+    <loc>https://ecxaihealth.github.io/tag/classification/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/diagnostics/</loc>
+    <loc>https://ecxaihealth.github.io/tag/diagnostics/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/gpt/</loc>
+    <loc>https://ecxaihealth.github.io/tag/gpt/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -95,10 +95,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/tag/gpt/"
+                href="https://ecxaihealth.github.io/tag/gpt/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/gregor-stiglic/</loc>
+    <loc>https://ecxaihealth.github.io/author/gregor-stiglic/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -109,14 +109,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/gregor-stiglic/"
+                href="https://ecxaihealth.github.io/author/gregor-stiglic/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/interpretability/</loc>
+    <loc>https://ecxaihealth.github.io/tag/interpretability/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/iztok-jr-fister/</loc>
+    <loc>https://ecxaihealth.github.io/author/iztok-jr-fister/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -127,10 +127,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/iztok-jr-fister/"
+                href="https://ecxaihealth.github.io/author/iztok-jr-fister/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/leon-kopitar/</loc>
+    <loc>https://ecxaihealth.github.io/author/leon-kopitar/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -141,10 +141,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/leon-kopitar/"
+                href="https://ecxaihealth.github.io/author/leon-kopitar/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication_types/</loc>
+    <loc>https://ecxaihealth.github.io/publication_types/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -155,10 +155,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/publication_types/"
+                href="https://ecxaihealth.github.io/publication_types/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tags/</loc>
+    <loc>https://ecxaihealth.github.io/tags/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -169,14 +169,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/tags/"
+                href="https://ecxaihealth.github.io/tags/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication/08_infor_2024/</loc>
+    <loc>https://ecxaihealth.github.io/publication/08_infor_2024/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/benjamin-s.-abella/</loc>
+    <loc>https://ecxaihealth.github.io/author/benjamin-s.-abella/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -187,22 +187,22 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/benjamin-s.-abella/"
+                href="https://ecxaihealth.github.io/author/benjamin-s.-abella/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/bibliometrics-analysis/</loc>
+    <loc>https://ecxaihealth.github.io/tag/bibliometrics-analysis/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/congress/</loc>
+    <loc>https://ecxaihealth.github.io/tag/congress/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/emergency-medicine/</loc>
+    <loc>https://ecxaihealth.github.io/tag/emergency-medicine/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/european-resuscitation-council/</loc>
+    <loc>https://ecxaihealth.github.io/tag/european-resuscitation-council/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -213,14 +213,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/tag/european-resuscitation-council/"
+                href="https://ecxaihealth.github.io/tag/european-resuscitation-council/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/generative-artificial-intelligence/</loc>
+    <loc>https://ecxaihealth.github.io/tag/generative-artificial-intelligence/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/nino-fijacko/</loc>
+    <loc>https://ecxaihealth.github.io/author/nino-fijacko/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -231,10 +231,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/nino-fijacko/"
+                href="https://ecxaihealth.github.io/author/nino-fijacko/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/primoz-kocbek/</loc>
+    <loc>https://ecxaihealth.github.io/author/primoz-kocbek/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -245,10 +245,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/primoz-kocbek/"
+                href="https://ecxaihealth.github.io/author/primoz-kocbek/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/robert-greif/</loc>
+    <loc>https://ecxaihealth.github.io/author/robert-greif/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -259,10 +259,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/robert-greif/"
+                href="https://ecxaihealth.github.io/author/robert-greif/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/ruth-masterson-creber/</loc>
+    <loc>https://ecxaihealth.github.io/author/ruth-masterson-creber/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -273,10 +273,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/ruth-masterson-creber/"
+                href="https://ecxaihealth.github.io/author/ruth-masterson-creber/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/spela-metlicar/</loc>
+    <loc>https://ecxaihealth.github.io/author/spela-metlicar/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -287,22 +287,22 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/spela-metlicar/"
+                href="https://ecxaihealth.github.io/author/spela-metlicar/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication/03_res_plus_2024/</loc>
+    <loc>https://ecxaihealth.github.io/publication/03_res_plus_2024/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/accelerometer/</loc>
+    <loc>https://ecxaihealth.github.io/tag/accelerometer/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/healthcare-professionals/</loc>
+    <loc>https://ecxaihealth.github.io/tag/healthcare-professionals/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/lucija-gosak/</loc>
+    <loc>https://ecxaihealth.github.io/author/lucija-gosak/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -313,10 +313,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/lucija-gosak/"
+                href="https://ecxaihealth.github.io/author/lucija-gosak/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication/07_prevmedrep_2024/</loc>
+    <loc>https://ecxaihealth.github.io/publication/07_prevmedrep_2024/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -327,38 +327,38 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/publication/07_prevmedrep_2024/"
+                href="https://ecxaihealth.github.io/publication/07_prevmedrep_2024/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/nursing/</loc>
+    <loc>https://ecxaihealth.github.io/tag/nursing/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/occupational-health/</loc>
+    <loc>https://ecxaihealth.github.io/tag/occupational-health/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/physical-activity/</loc>
+    <loc>https://ecxaihealth.github.io/tag/physical-activity/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/shift-work/</loc>
+    <loc>https://ecxaihealth.github.io/tag/shift-work/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/workload/</loc>
+    <loc>https://ecxaihealth.github.io/tag/workload/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/application-quality/</loc>
+    <loc>https://ecxaihealth.github.io/tag/application-quality/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/health-behavior/</loc>
+    <loc>https://ecxaihealth.github.io/tag/health-behavior/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/janja-kamensek/</loc>
+    <loc>https://ecxaihealth.github.io/author/janja-kamensek/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -369,10 +369,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/janja-kamensek/"
+                href="https://ecxaihealth.github.io/author/janja-kamensek/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/jeroen-ooge/</loc>
+    <loc>https://ecxaihealth.github.io/author/jeroen-ooge/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -383,10 +383,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/jeroen-ooge/"
+                href="https://ecxaihealth.github.io/author/jeroen-ooge/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/katrien-verbert/</loc>
+    <loc>https://ecxaihealth.github.io/author/katrien-verbert/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -397,18 +397,18 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/katrien-verbert/"
+                href="https://ecxaihealth.github.io/author/katrien-verbert/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/mobile-health/</loc>
+    <loc>https://ecxaihealth.github.io/tag/mobile-health/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/mobile-phone/</loc>
+    <loc>https://ecxaihealth.github.io/tag/mobile-phone/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/nika-debeljak/</loc>
+    <loc>https://ecxaihealth.github.io/author/nika-debeljak/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -419,10 +419,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/nika-debeljak/"
+                href="https://ecxaihealth.github.io/author/nika-debeljak/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication-type/paper-conference/</loc>
+    <loc>https://ecxaihealth.github.io/publication-type/paper-conference/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -433,50 +433,50 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/publication-type/paper-conference/"
+                href="https://ecxaihealth.github.io/publication-type/paper-conference/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication/04_ceciis_2023/</loc>
+    <loc>https://ecxaihealth.github.io/publication/04_ceciis_2023/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/smartphone-application/</loc>
+    <loc>https://ecxaihealth.github.io/tag/smartphone-application/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/careless-respondents/</loc>
+    <loc>https://ecxaihealth.github.io/tag/careless-respondents/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/local-interpretability/</loc>
+    <loc>https://ecxaihealth.github.io/tag/local-interpretability/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/machine-learning/</loc>
+    <loc>https://ecxaihealth.github.io/tag/machine-learning/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/questionnaire/</loc>
+    <loc>https://ecxaihealth.github.io/tag/questionnaire/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication/06_scirep_2023/</loc>
+    <loc>https://ecxaihealth.github.io/publication/06_scirep_2023/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/artificial-intelligence/</loc>
+    <loc>https://ecxaihealth.github.io/tag/artificial-intelligence/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/healthcare/</loc>
+    <loc>https://ecxaihealth.github.io/tag/healthcare/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication/05_dshealth_2023/</loc>
+    <loc>https://ecxaihealth.github.io/publication/05_dshealth_2023/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/jiang-bian/</loc>
+    <loc>https://ecxaihealth.github.io/author/jiang-bian/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -487,14 +487,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/jiang-bian/"
+                href="https://ecxaihealth.github.io/author/jiang-bian/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/large-language-models/</loc>
+    <loc>https://ecxaihealth.github.io/tag/large-language-models/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/pablo-meyer/</loc>
+    <loc>https://ecxaihealth.github.io/author/pablo-meyer/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -505,10 +505,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/pablo-meyer/"
+                href="https://ecxaihealth.github.io/author/pablo-meyer/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/prithwish-chakraborty/</loc>
+    <loc>https://ecxaihealth.github.io/author/prithwish-chakraborty/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -519,14 +519,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/prithwish-chakraborty/"
+                href="https://ecxaihealth.github.io/author/prithwish-chakraborty/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/summarization/</loc>
+    <loc>https://ecxaihealth.github.io/tag/summarization/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/zhe-he/</loc>
+    <loc>https://ecxaihealth.github.io/author/zhe-he/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -537,30 +537,30 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/zhe-he/"
+                href="https://ecxaihealth.github.io/author/zhe-he/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/resuscitation/</loc>
+    <loc>https://ecxaihealth.github.io/tag/resuscitation/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/sentiment-analysis/</loc>
+    <loc>https://ecxaihealth.github.io/tag/sentiment-analysis/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication/05_jama_open_2023/</loc>
+    <loc>https://ecxaihealth.github.io/publication/05_jama_open_2023/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/social-media/</loc>
+    <loc>https://ecxaihealth.github.io/tag/social-media/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/use-case/</loc>
+    <loc>https://ecxaihealth.github.io/tag/use-case/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/aditya-bhattacharya/</loc>
+    <loc>https://ecxaihealth.github.io/author/aditya-bhattacharya/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -571,10 +571,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/aditya-bhattacharya/"
+                href="https://ecxaihealth.github.io/author/aditya-bhattacharya/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication/02_iui_2023/</loc>
+    <loc>https://ecxaihealth.github.io/publication/02_iui_2023/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -585,18 +585,18 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/publication/02_iui_2023/"
+                href="https://ecxaihealth.github.io/publication/02_iui_2023/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/explainable-ai/</loc>
+    <loc>https://ecxaihealth.github.io/tag/explainable-ai/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/visual-analytics/</loc>
+    <loc>https://ecxaihealth.github.io/tag/visual-analytics/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/chatgpt/</loc>
+    <loc>https://ecxaihealth.github.io/tag/chatgpt/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -607,18 +607,18 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/tag/chatgpt/"
+                href="https://ecxaihealth.github.io/tag/chatgpt/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/conversational-agents/</loc>
+    <loc>https://ecxaihealth.github.io/tag/conversational-agents/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/health-care/</loc>
+    <loc>https://ecxaihealth.github.io/tag/health-care/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/leona-cilar-budler/</loc>
+    <loc>https://ecxaihealth.github.io/author/leona-cilar-budler/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -629,10 +629,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/leona-cilar-budler/"
+                href="https://ecxaihealth.github.io/author/leona-cilar-budler/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/publication/01_wires_2023/</loc>
+    <loc>https://ecxaihealth.github.io/publication/01_wires_2023/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -643,10 +643,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/publication/01_wires_2023/"
+                href="https://ecxaihealth.github.io/publication/01_wires_2023/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/</loc>
+    <loc>https://ecxaihealth.github.io/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -657,10 +657,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/"
+                href="https://ecxaihealth.github.io/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/contact/</loc>
+    <loc>https://ecxaihealth.github.io/contact/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -671,10 +671,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/contact/"
+                href="https://ecxaihealth.github.io/contact/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/project/fwo-aris_2023-26/</loc>
+    <loc>https://ecxaihealth.github.io/project/fwo-aris_2023-26/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -685,10 +685,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/project/fwo-aris_2023-26/"
+                href="https://ecxaihealth.github.io/project/fwo-aris_2023-26/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/people/</loc>
+    <loc>https://ecxaihealth.github.io/people/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -699,14 +699,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/people/"
+                href="https://ecxaihealth.github.io/people/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/prediction-models/</loc>
+    <loc>https://ecxaihealth.github.io/tag/prediction-models/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/project/</loc>
+    <loc>https://ecxaihealth.github.io/project/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -717,10 +717,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/project/"
+                href="https://ecxaihealth.github.io/project/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tour/</loc>
+    <loc>https://ecxaihealth.github.io/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -731,10 +731,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/tour/"
+                href="https://ecxaihealth.github.io/tour/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/categories/</loc>
+    <loc>https://ecxaihealth.github.io/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -745,14 +745,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/categories/"
+                href="https://ecxaihealth.github.io/categories/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://ecxaihealth.github.io/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/post/</loc>
+    <loc>https://ecxaihealth.github.io/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -763,26 +763,26 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/post/"
+                href="https://ecxaihealth.github.io/post/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/plot/</loc>
+    <loc>https://ecxaihealth.github.io/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/category/r/</loc>
+    <loc>https://ecxaihealth.github.io/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/r-markdown/</loc>
+    <loc>https://ecxaihealth.github.io/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/tag/regression/</loc>
+    <loc>https://ecxaihealth.github.io/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/post/20-12-02-icml-best-paper/</loc>
+    <loc>https://ecxaihealth.github.io/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -793,10 +793,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/post/20-12-02-icml-best-paper/"
+                href="https://ecxaihealth.github.io/post/20-12-02-icml-best-paper/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/post/20-12-01-wowchemy-prize/</loc>
+    <loc>https://ecxaihealth.github.io/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -807,10 +807,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/post/20-12-01-wowchemy-prize/"
+                href="https://ecxaihealth.github.io/post/20-12-01-wowchemy-prize/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/admin/</loc>
+    <loc>https://ecxaihealth.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -820,10 +820,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/admin/"
+                href="https://ecxaihealth.github.io/admin/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/alenka-novsak/</loc>
+    <loc>https://ecxaihealth.github.io/author/alenka-novsak/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -833,10 +833,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/alenka-novsak/"
+                href="https://ecxaihealth.github.io/author/alenka-novsak/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/aziz-sheikh/</loc>
+    <loc>https://ecxaihealth.github.io/author/aziz-sheikh/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -846,10 +846,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/aziz-sheikh/"
+                href="https://ecxaihealth.github.io/author/aziz-sheikh/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/brian-chaka/</loc>
+    <loc>https://ecxaihealth.github.io/author/brian-chaka/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -859,10 +859,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/brian-chaka/"
+                href="https://ecxaihealth.github.io/author/brian-chaka/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/bright-i-nwaru/</loc>
+    <loc>https://ecxaihealth.github.io/author/bright-i-nwaru/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -872,10 +872,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/bright-i-nwaru/"
+                href="https://ecxaihealth.github.io/author/bright-i-nwaru/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/carolina-chabrera-sanz/</loc>
+    <loc>https://ecxaihealth.github.io/author/carolina-chabrera-sanz/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -885,10 +885,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/carolina-chabrera-sanz/"
+                href="https://ecxaihealth.github.io/author/carolina-chabrera-sanz/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/dominic-j.-egan/</loc>
+    <loc>https://ecxaihealth.github.io/author/dominic-j.-egan/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -898,10 +898,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/dominic-j.-egan/"
+                href="https://ecxaihealth.github.io/author/dominic-j.-egan/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/dominika-vrbnjak/</loc>
+    <loc>https://ecxaihealth.github.io/author/dominika-vrbnjak/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -911,10 +911,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/dominika-vrbnjak/"
+                href="https://ecxaihealth.github.io/author/dominika-vrbnjak/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/esther-cabrera-torres/</loc>
+    <loc>https://ecxaihealth.github.io/author/esther-cabrera-torres/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -924,10 +924,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/esther-cabrera-torres/"
+                href="https://ecxaihealth.github.io/author/esther-cabrera-torres/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/fei-wang/</loc>
+    <loc>https://ecxaihealth.github.io/author/fei-wang/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -937,10 +937,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/fei-wang/"
+                href="https://ecxaihealth.github.io/author/fei-wang/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/goran-hrovat/</loc>
+    <loc>https://ecxaihealth.github.io/author/goran-hrovat/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -950,10 +950,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/goran-hrovat/"
+                href="https://ecxaihealth.github.io/author/goran-hrovat/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/isa-brito-felix/</loc>
+    <loc>https://ecxaihealth.github.io/author/isa-brito-felix/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -963,10 +963,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/isa-brito-felix/"
+                href="https://ecxaihealth.github.io/author/isa-brito-felix/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/kasandra-musovic/</loc>
+    <loc>https://ecxaihealth.github.io/author/kasandra-musovic/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -976,10 +976,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/kasandra-musovic/"
+                href="https://ecxaihealth.github.io/author/kasandra-musovic/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/katja-braam/</loc>
+    <loc>https://ecxaihealth.github.io/author/katja-braam/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -989,10 +989,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/katja-braam/"
+                href="https://ecxaihealth.github.io/author/katja-braam/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/leen-van-houdt/</loc>
+    <loc>https://ecxaihealth.github.io/author/leen-van-houdt/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1002,10 +1002,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/leen-van-houdt/"
+                href="https://ecxaihealth.github.io/author/leen-van-houdt/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/majda-pajnkihar-faan-feans/</loc>
+    <loc>https://ecxaihealth.github.io/author/majda-pajnkihar-faan-feans/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1015,10 +1015,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/majda-pajnkihar-faan-feans/"
+                href="https://ecxaihealth.github.io/author/majda-pajnkihar-faan-feans/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/mara-pereira-guerreiro/</loc>
+    <loc>https://ecxaihealth.github.io/author/mara-pereira-guerreiro/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1028,10 +1028,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/mara-pereira-guerreiro/"
+                href="https://ecxaihealth.github.io/author/mara-pereira-guerreiro/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/marinka-zitnik/</loc>
+    <loc>https://ecxaihealth.github.io/author/marinka-zitnik/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1041,10 +1041,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/marinka-zitnik/"
+                href="https://ecxaihealth.github.io/author/marinka-zitnik/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/matej-strnad/</loc>
+    <loc>https://ecxaihealth.github.io/author/matej-strnad/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1054,10 +1054,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/matej-strnad/"
+                href="https://ecxaihealth.github.io/author/matej-strnad/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/mateja-lorber/</loc>
+    <loc>https://ecxaihealth.github.io/author/mateja-lorber/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1067,10 +1067,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/mateja-lorber/"
+                href="https://ecxaihealth.github.io/author/mateja-lorber/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/nelson-bighetti/</loc>
+    <loc>https://ecxaihealth.github.io/author/nelson-bighetti/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1080,10 +1080,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/nelson-bighetti/"
+                href="https://ecxaihealth.github.io/author/nelson-bighetti/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/nyi-nyi-htun/</loc>
+    <loc>https://ecxaihealth.github.io/author/nyi-nyi-htun/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1093,10 +1093,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/nyi-nyi-htun/"
+                href="https://ecxaihealth.github.io/author/nyi-nyi-htun/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/paige-wickner/</loc>
+    <loc>https://ecxaihealth.github.io/author/paige-wickner/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1106,10 +1106,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/paige-wickner/"
+                href="https://ecxaihealth.github.io/author/paige-wickner/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/pavel-skok/</loc>
+    <loc>https://ecxaihealth.github.io/author/pavel-skok/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1119,10 +1119,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/pavel-skok/"
+                href="https://ecxaihealth.github.io/author/pavel-skok/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/peter-creber/</loc>
+    <loc>https://ecxaihealth.github.io/author/peter-creber/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1132,10 +1132,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/peter-creber/"
+                href="https://ecxaihealth.github.io/author/peter-creber/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/robin-de-croon/</loc>
+    <loc>https://ecxaihealth.github.io/author/robin-de-croon/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1145,10 +1145,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/robin-de-croon/"
+                href="https://ecxaihealth.github.io/author/robin-de-croon/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/roger-watson/</loc>
+    <loc>https://ecxaihealth.github.io/author/roger-watson/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1158,10 +1158,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/roger-watson/"
+                href="https://ecxaihealth.github.io/author/roger-watson/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/simon-kocbek/</loc>
+    <loc>https://ecxaihealth.github.io/author/simon-kocbek/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1171,13 +1171,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/simon-kocbek/"
+                href="https://ecxaihealth.github.io/author/simon-kocbek/"
                 />
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/simone-stumpf/</loc>
+    <loc>https://ecxaihealth.github.io/author/simone-stumpf/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ecxaihealth.github.io/en/author/vero-vanden-abeele/</loc>
+    <loc>https://ecxaihealth.github.io/author/vero-vanden-abeele/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -1187,7 +1187,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ecxaihealth.github.io/en/author/vero-vanden-abeele/"
+                href="https://ecxaihealth.github.io/author/vero-vanden-abeele/"
                 />
   </url>
 </urlset>

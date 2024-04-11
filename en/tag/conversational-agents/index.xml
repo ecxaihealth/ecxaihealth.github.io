@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conversational Agents | </title>
-    <link>https://ecxaihealth.github.io/en/tag/conversational-agents/</link>
-      <atom:link href="https://ecxaihealth.github.io/en/tag/conversational-agents/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecxaihealth.github.io/tag/conversational-agents/</link>
+      <atom:link href="https://ecxaihealth.github.io/tag/conversational-agents/index.xml" rel="self" type="application/rss+xml" />
     <description>Conversational Agents</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecxaihealth.github.io/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ecxaihealth.github.io/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
       <title>Conversational Agents</title>
-      <link>https://ecxaihealth.github.io/en/tag/conversational-agents/</link>
+      <link>https://ecxaihealth.github.io/tag/conversational-agents/</link>
     </image>
     
     <item>
       <title>Review of artificial intelligence-based question-answering systems in healthcare</title>
-      <link>https://ecxaihealth.github.io/en/publication/01_wires_2023/</link>
+      <link>https://ecxaihealth.github.io/publication/01_wires_2023/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ecxaihealth.github.io/en/publication/01_wires_2023/</guid>
+      <guid>https://ecxaihealth.github.io/publication/01_wires_2023/</guid>
       <description></description>
     </item>
     
