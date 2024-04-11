@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Povzemanje | </title>
-    <link>http://localhost:4322/sl/tag/povzemanje/</link>
-      <atom:link href="http://localhost:4322/sl/tag/povzemanje/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecxaihealth.github.io/sl/tag/povzemanje/</link>
+      <atom:link href="https://ecxaihealth.github.io/sl/tag/povzemanje/index.xml" rel="self" type="application/rss+xml" />
     <description>Povzemanje</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language><lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ecxaihealth.github.io/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
       <title>Povzemanje</title>
-      <link>http://localhost:4322/sl/tag/povzemanje/</link>
+      <link>https://ecxaihealth.github.io/sl/tag/povzemanje/</link>
     </image>
     
     <item>
       <title>Improving primary healthcare workflow using extreme summarization of scientific literature based on generative AI</title>
-      <link>http://localhost:4322/sl/publication/04_dshealth_2023/</link>
+      <link>https://ecxaihealth.github.io/sl/publication/04_dshealth_2023/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/sl/publication/04_dshealth_2023/</guid>
+      <guid>https://ecxaihealth.github.io/sl/publication/04_dshealth_2023/</guid>
       <description></description>
     </item>
     

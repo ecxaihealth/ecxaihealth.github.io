@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leon Kopitar | </title>
-    <link>http://localhost:4321/en/author/leon-kopitar/</link>
-      <atom:link href="http://localhost:4321/en/author/leon-kopitar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecxaihealth.github.io/en/author/leon-kopitar/</link>
+      <atom:link href="https://ecxaihealth.github.io/en/author/leon-kopitar/index.xml" rel="self" type="application/rss+xml" />
     <description>Leon Kopitar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/en/author/leon-kopitar/avatar_hu38ab690395eb76f3761836448571d758_683337_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ecxaihealth.github.io/en/author/leon-kopitar/avatar_hu38ab690395eb76f3761836448571d758_683337_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Leon Kopitar</title>
-      <link>http://localhost:4321/en/author/leon-kopitar/</link>
+      <link>https://ecxaihealth.github.io/en/author/leon-kopitar/</link>
     </image>
     
     <item>
       <title>Using Generative AI to Improve the Performance and Interpretability of Rule-Based Diagnosis of Type 2 Diabetes Mellitus</title>
-      <link>http://localhost:4321/en/publication/08_infor_2024/</link>
+      <link>https://ecxaihealth.github.io/en/publication/08_infor_2024/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/08_infor_2024/</guid>
+      <guid>https://ecxaihealth.github.io/en/publication/08_infor_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using heterogeneous sources of data and interpretability of prediction models to explain the characteristics of careless respondents in survey data</title>
-      <link>http://localhost:4321/en/publication/06_scirep_2023/</link>
+      <link>https://ecxaihealth.github.io/en/publication/06_scirep_2023/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/06_scirep_2023/</guid>
+      <guid>https://ecxaihealth.github.io/en/publication/06_scirep_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving primary healthcare workflow using extreme summarization of scientific literature based on generative AI</title>
-      <link>http://localhost:4321/en/publication/05_dshealth_2023/</link>
+      <link>https://ecxaihealth.github.io/en/publication/05_dshealth_2023/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/05_dshealth_2023/</guid>
+      <guid>https://ecxaihealth.github.io/en/publication/05_dshealth_2023/</guid>
       <description></description>
     </item>
     

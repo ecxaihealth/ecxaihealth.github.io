@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workload | </title>
-    <link>http://localhost:4321/en/tag/workload/</link>
-      <atom:link href="http://localhost:4321/en/tag/workload/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecxaihealth.github.io/en/tag/workload/</link>
+      <atom:link href="https://ecxaihealth.github.io/en/tag/workload/index.xml" rel="self" type="application/rss+xml" />
     <description>Workload</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ecxaihealth.github.io/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
       <title>Workload</title>
-      <link>http://localhost:4321/en/tag/workload/</link>
+      <link>https://ecxaihealth.github.io/en/tag/workload/</link>
     </image>
     
     <item>
       <title>Nurses’ occupational physical activity and workload in a perioperative intensive care unit in Slovenia</title>
-      <link>http://localhost:4321/en/publication/07_prevmedrep_2024/</link>
+      <link>https://ecxaihealth.github.io/en/publication/07_prevmedrep_2024/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/07_prevmedrep_2024/</guid>
+      <guid>https://ecxaihealth.github.io/en/publication/07_prevmedrep_2024/</guid>
       <description></description>
     </item>
     
