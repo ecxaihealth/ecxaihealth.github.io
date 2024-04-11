@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goran Hrovat | </title>
-    <link>http://localhost:4322/sl/author/goran-hrovat/</link>
-      <atom:link href="http://localhost:4322/sl/author/goran-hrovat/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/sl/author/goran-hrovat/</link>
+      <atom:link href="//localhost:4321/sl/author/goran-hrovat/index.xml" rel="self" type="application/rss+xml" />
     <description>Goran Hrovat</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language>
     <image>
-      <url>http://localhost:4322/sl/author/goran-hrovat/avatar_hubdf2b60cfb786f62eb4d4d6b9fe9df49_36714_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>//localhost:4321/sl/author/goran-hrovat/avatar_hubdf2b60cfb786f62eb4d4d6b9fe9df49_36714_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Goran Hrovat</title>
-      <link>http://localhost:4322/sl/author/goran-hrovat/</link>
+      <link>//localhost:4321/sl/author/goran-hrovat/</link>
     </image>
     
   </channel>
