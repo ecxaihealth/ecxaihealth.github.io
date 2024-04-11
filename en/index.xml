@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>//localhost:4321/</link>
-      <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4321/en/</link>
+      <atom:link href="//localhost:4321/en/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
       <title></title>
-      <link>//localhost:4321/</link>
+      <link>//localhost:4321/en/</link>
     </image>
     
     <item>
       <title>Example Event</title>
-      <link>//localhost:4321/event/example/</link>
+      <link>//localhost:4321/en/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>//localhost:4321/event/example/</guid>
+      <guid>//localhost:4321/en/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -29,97 +29,97 @@
     
     <item>
       <title>EXMOS: Explanatory Model Steering Through Multifaceted Explanations and Data Configurations</title>
-      <link>//localhost:4321/publication/09_chi_2024/</link>
+      <link>//localhost:4321/en/publication/09_chi_2024/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/09_chi_2024/</guid>
+      <guid>//localhost:4321/en/publication/09_chi_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Generative AI to Improve the Performance and Interpretability of Rule-Based Diagnosis of Type 2 Diabetes Mellitus</title>
-      <link>//localhost:4321/publication/08_infor_2024/</link>
+      <link>//localhost:4321/en/publication/08_infor_2024/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/08_infor_2024/</guid>
+      <guid>//localhost:4321/en/publication/08_infor_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using generative artificial intelligence in bibliometric analysis: 10 years of research trends from the European Resuscitation Congresses</title>
-      <link>//localhost:4321/publication/03_res_plus_2024/</link>
+      <link>//localhost:4321/en/publication/03_res_plus_2024/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/03_res_plus_2024/</guid>
+      <guid>//localhost:4321/en/publication/03_res_plus_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nurses’ occupational physical activity and workload in a perioperative intensive care unit in Slovenia</title>
-      <link>//localhost:4321/publication/07_prevmedrep_2024/</link>
+      <link>//localhost:4321/en/publication/07_prevmedrep_2024/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/07_prevmedrep_2024/</guid>
+      <guid>//localhost:4321/en/publication/07_prevmedrep_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Care Oriented Smartphone Apps for Type 2 Diabetes: A Comparative Analysis</title>
-      <link>//localhost:4321/publication/04_ceciis_2023/</link>
+      <link>//localhost:4321/en/publication/04_ceciis_2023/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/04_ceciis_2023/</guid>
+      <guid>//localhost:4321/en/publication/04_ceciis_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using heterogeneous sources of data and interpretability of prediction models to explain the characteristics of careless respondents in survey data</title>
-      <link>//localhost:4321/publication/06_scirep_2023/</link>
+      <link>//localhost:4321/en/publication/06_scirep_2023/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/06_scirep_2023/</guid>
+      <guid>//localhost:4321/en/publication/06_scirep_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving primary healthcare workflow using extreme summarization of scientific literature based on generative AI</title>
-      <link>//localhost:4321/publication/05_dshealth_2023/</link>
+      <link>//localhost:4321/en/publication/05_dshealth_2023/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/05_dshealth_2023/</guid>
+      <guid>//localhost:4321/en/publication/05_dshealth_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment Analysis of Social Media Users’ Emotional Response to Sudden Cardiac Arrest During a Football Broadcast</title>
-      <link>//localhost:4321/publication/05_jama_open_2023/</link>
+      <link>//localhost:4321/en/publication/05_jama_open_2023/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/05_jama_open_2023/</guid>
+      <guid>//localhost:4321/en/publication/05_jama_open_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Directive Explanations for Monitoring the Risk of Diabetes Onset: Introducing Directive Data-Centric Explanations and Combinations to Support What-If Explorations</title>
-      <link>//localhost:4321/publication/02_iui_2023/</link>
+      <link>//localhost:4321/en/publication/02_iui_2023/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/02_iui_2023/</guid>
+      <guid>//localhost:4321/en/publication/02_iui_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of artificial intelligence-based question-answering systems in healthcare</title>
-      <link>//localhost:4321/publication/01_wires_2023/</link>
+      <link>//localhost:4321/en/publication/01_wires_2023/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/01_wires_2023/</guid>
+      <guid>//localhost:4321/en/publication/01_wires_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>//localhost:4321/contact/</link>
+      <link>//localhost:4321/en/contact/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/contact/</guid>
+      <guid>//localhost:4321/en/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enriched conversational XAI methods for healthcare</title>
-      <link>//localhost:4321/project/fwo-aris_2023-26/</link>
+      <link>//localhost:4321/en/project/fwo-aris_2023-26/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/fwo-aris_2023-26/</guid>
+      <guid>//localhost:4321/en/project/fwo-aris_2023-26/</guid>
       <description>&lt;p&gt;Main host institution: &lt;strong&gt;KU Leuven&lt;/strong&gt;&lt;br&gt;
 &lt;sub&gt;Supervisor: &lt;em&gt;Katrien Verbert&lt;/em&gt; (Informatics Section, KU Leuven)&lt;/sub&gt;&lt;/p&gt;
 &lt;p&gt;Foreign host institution: &lt;strong&gt;University of Maribor&lt;/strong&gt;&lt;br&gt;
@@ -134,25 +134,25 @@ The field of artificial intelligence is increasingly being applied in the health
     
     <item>
       <title>People</title>
-      <link>//localhost:4321/people/</link>
+      <link>//localhost:4321/en/people/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/people/</guid>
+      <guid>//localhost:4321/en/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>//localhost:4321/tour/</link>
+      <link>//localhost:4321/en/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tour/</guid>
+      <guid>//localhost:4321/en/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>//localhost:4321/post/2020-12-01-r-rmarkdown/</link>
+      <link>//localhost:4321/en/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>//localhost:4321/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>//localhost:4321/en/post/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -183,7 +183,7 @@ The field of artificial intelligence is increasingly being applied in the health
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;../post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;../en/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -191,9 +191,9 @@ The field of artificial intelligence is increasingly being applied in the health
     
     <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>//localhost:4321/post/20-12-02-icml-best-paper/</link>
+      <link>//localhost:4321/en/post/20-12-02-icml-best-paper/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/post/20-12-02-icml-best-paper/</guid>
+      <guid>//localhost:4321/en/post/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -202,9 +202,9 @@ The field of artificial intelligence is increasingly being applied in the health
     
     <item>
       <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>//localhost:4321/post/20-12-01-wowchemy-prize/</link>
+      <link>//localhost:4321/en/post/20-12-01-wowchemy-prize/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/post/20-12-01-wowchemy-prize/</guid>
+      <guid>//localhost:4321/en/post/20-12-01-wowchemy-prize/</guid>
       <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -213,9 +213,9 @@ The field of artificial intelligence is increasingly being applied in the health
     
     <item>
       <title></title>
-      <link>//localhost:4321/admin/config.yml</link>
+      <link>//localhost:4321/en/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/admin/config.yml</guid>
+      <guid>//localhost:4321/en/admin/config.yml</guid>
       <description></description>
     </item>
     
