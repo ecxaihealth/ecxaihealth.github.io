@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vizualna Analitika | </title>
-    <link>https://ecxaihealth.github.io/sl/tag/vizualna-analitika/</link>
-      <atom:link href="https://ecxaihealth.github.io/sl/tag/vizualna-analitika/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4322/sl/tag/vizualna-analitika/</link>
+      <atom:link href="http://localhost:4322/sl/tag/vizualna-analitika/index.xml" rel="self" type="application/rss+xml" />
     <description>Vizualna Analitika</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecxaihealth.github.io/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
       <title>Vizualna Analitika</title>
-      <link>https://ecxaihealth.github.io/sl/tag/vizualna-analitika/</link>
+      <link>http://localhost:4322/sl/tag/vizualna-analitika/</link>
     </image>
     
     <item>
       <title>Directive Explanations for Monitoring the Risk of Diabetes Onset: Introducing Directive Data-Centric Explanations and Combinations to Support What-If Explorations</title>
-      <link>https://ecxaihealth.github.io/sl/publication/02_iui_2023/</link>
+      <link>http://localhost:4322/sl/publication/02_iui_2023/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://ecxaihealth.github.io/sl/publication/02_iui_2023/</guid>
+      <guid>http://localhost:4322/sl/publication/02_iui_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Obogatitev pogovornih razložljivih metod umetne inteligence v zdravstvu</title>
-      <link>https://ecxaihealth.github.io/sl/project/fwo-aris_2023-26/</link>
+      <link>http://localhost:4322/sl/project/fwo-aris_2023-26/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ecxaihealth.github.io/sl/project/fwo-aris_2023-26/</guid>
+      <guid>http://localhost:4322/sl/project/fwo-aris_2023-26/</guid>
       <description>&lt;p&gt;Prijavitelj: &lt;strong&gt;KU Leuven&lt;/strong&gt;&lt;br&gt;
 &lt;sub&gt;Supervisor: &lt;em&gt;Katrien Verbert&lt;/em&gt; (Informatics Section, KU Leuven)&lt;/sub&gt;&lt;/p&gt;
 &lt;p&gt;Partnerska tuja inštitucija: &lt;strong&gt;Univerza v Mariboru&lt;/strong&gt;&lt;br&gt;

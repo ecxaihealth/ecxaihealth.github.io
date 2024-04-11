@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interpretability | </title>
-    <link>https://ecxaihealth.github.io/en/tag/interpretability/</link>
-      <atom:link href="https://ecxaihealth.github.io/en/tag/interpretability/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/en/tag/interpretability/</link>
+      <atom:link href="http://localhost:4321/en/tag/interpretability/index.xml" rel="self" type="application/rss+xml" />
     <description>Interpretability</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecxaihealth.github.io/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
       <title>Interpretability</title>
-      <link>https://ecxaihealth.github.io/en/tag/interpretability/</link>
+      <link>http://localhost:4321/en/tag/interpretability/</link>
     </image>
     
     <item>
+      <title>EXMOS: Explanatory Model Steering Through Multifaceted Explanations and Data Configurations</title>
+      <link>http://localhost:4321/en/publication/09_chi_2024/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/en/publication/09_chi_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Using Generative AI to Improve the Performance and Interpretability of Rule-Based Diagnosis of Type 2 Diabetes Mellitus</title>
-      <link>https://ecxaihealth.github.io/en/publication/08_infor_2024/</link>
+      <link>http://localhost:4321/en/publication/08_infor_2024/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://ecxaihealth.github.io/en/publication/08_infor_2024/</guid>
+      <guid>http://localhost:4321/en/publication/08_infor_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enriched conversational XAI methods for healthcare</title>
-      <link>https://ecxaihealth.github.io/en/project/fwo-aris_2023-26/</link>
+      <link>http://localhost:4321/en/project/fwo-aris_2023-26/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ecxaihealth.github.io/en/project/fwo-aris_2023-26/</guid>
+      <guid>http://localhost:4321/en/project/fwo-aris_2023-26/</guid>
       <description>&lt;p&gt;Main host institution: &lt;strong&gt;KU Leuven&lt;/strong&gt;&lt;br&gt;
 &lt;sub&gt;Supervisor: &lt;em&gt;Katrien Verbert&lt;/em&gt; (Informatics Section, KU Leuven)&lt;/sub&gt;&lt;/p&gt;
 &lt;p&gt;Foreign host institution: &lt;strong&gt;University of Maribor&lt;/strong&gt;&lt;br&gt;

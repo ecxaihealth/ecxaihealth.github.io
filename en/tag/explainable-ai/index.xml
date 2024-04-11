@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Explainable AI | </title>
-    <link>https://ecxaihealth.github.io/en/tag/explainable-ai/</link>
-      <atom:link href="https://ecxaihealth.github.io/en/tag/explainable-ai/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/en/tag/explainable-ai/</link>
+      <atom:link href="http://localhost:4321/en/tag/explainable-ai/index.xml" rel="self" type="application/rss+xml" />
     <description>Explainable AI</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecxaihealth.github.io/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
       <title>Explainable AI</title>
-      <link>https://ecxaihealth.github.io/en/tag/explainable-ai/</link>
+      <link>http://localhost:4321/en/tag/explainable-ai/</link>
     </image>
     
     <item>
       <title>Directive Explanations for Monitoring the Risk of Diabetes Onset: Introducing Directive Data-Centric Explanations and Combinations to Support What-If Explorations</title>
-      <link>https://ecxaihealth.github.io/en/publication/02_iui_2023/</link>
+      <link>http://localhost:4321/en/publication/02_iui_2023/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://ecxaihealth.github.io/en/publication/02_iui_2023/</guid>
+      <guid>http://localhost:4321/en/publication/02_iui_2023/</guid>
       <description></description>
     </item>
     
