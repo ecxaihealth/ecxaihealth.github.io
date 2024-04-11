@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nino Fijačko | </title>
-    <link>//localhost:4321/author/nino-fija%C4%8Dko/</link>
-      <atom:link href="//localhost:4321/author/nino-fija%C4%8Dko/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/nino-fija%C4%8Dko/</link>
+      <atom:link href="/author/nino-fija%C4%8Dko/index.xml" rel="self" type="application/rss+xml" />
     <description>Nino Fijačko</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:4321/author/nino-fija%C4%8Dko/avatar_hud4ab330355bdf774426ed2d079e75a15_7155_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/nino-fija%C4%8Dko/avatar_hud4ab330355bdf774426ed2d079e75a15_7155_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Nino Fijačko</title>
-      <link>//localhost:4321/author/nino-fija%C4%8Dko/</link>
+      <link>/author/nino-fija%C4%8Dko/</link>
     </image>
     
     <item>
       <title>Using generative artificial intelligence in bibliometric analysis: 10 years of research trends from the European Resuscitation Congresses</title>
-      <link>//localhost:4321/publication/03_res_plus_2024/</link>
+      <link>/publication/03_res_plus_2024/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/03_res_plus_2024/</guid>
+      <guid>/publication/03_res_plus_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nurses’ occupational physical activity and workload in a perioperative intensive care unit in Slovenia</title>
-      <link>//localhost:4321/publication/07_prevmedrep_2024/</link>
+      <link>/publication/07_prevmedrep_2024/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/07_prevmedrep_2024/</guid>
+      <guid>/publication/07_prevmedrep_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Care Oriented Smartphone Apps for Type 2 Diabetes: A Comparative Analysis</title>
-      <link>//localhost:4321/publication/04_ceciis_2023/</link>
+      <link>/publication/04_ceciis_2023/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/04_ceciis_2023/</guid>
+      <guid>/publication/04_ceciis_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment Analysis of Social Media Users’ Emotional Response to Sudden Cardiac Arrest During a Football Broadcast</title>
-      <link>//localhost:4321/publication/05_jama_open_2023/</link>
+      <link>/publication/05_jama_open_2023/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publication/05_jama_open_2023/</guid>
+      <guid>/publication/05_jama_open_2023/</guid>
       <description></description>
     </item>
     
