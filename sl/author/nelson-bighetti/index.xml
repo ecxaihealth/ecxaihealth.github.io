@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nelson Bighetti | </title>
-    <link>//localhost:4321/sl/author/nelson-bighetti/</link>
-      <atom:link href="//localhost:4321/sl/author/nelson-bighetti/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4322/si/author/nelson-bighetti/</link>
+      <atom:link href="http://localhost:4322/si/author/nelson-bighetti/index.xml" rel="self" type="application/rss+xml" />
     <description>Nelson Bighetti</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language>
     <image>
-      <url>//localhost:4321/sl/author/nelson-bighetti/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:4322/si/author/nelson-bighetti/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Nelson Bighetti</title>
-      <link>//localhost:4321/sl/author/nelson-bighetti/</link>
+      <link>http://localhost:4322/si/author/nelson-bighetti/</link>
     </image>
     
     <item>
       <title>Gregor Štiglic</title>
-      <link>//localhost:4321/sl/author/gregor-stiglic/</link>
+      <link>http://localhost:4322/si/author/gregor-stiglic/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/sl/author/gregor-stiglic/</guid>
+      <guid>http://localhost:4322/si/author/gregor-stiglic/</guid>
       <description>&lt;p&gt;Gregor Štiglic je prodekan za raziskovalno dejavnost, profesor in predstojnik Raziskovalnega inštituta na Univerzi v Mariboru, Fakulteti za zdravstvene vede (UM FZV). Na Univerzi v Mariboru je sodeloval pri številnih domačih in mednarodnih projektih s področja zdravstvene informatike. Je soustanovitelj magistrskega študijskega programa Bioinformatika na UM FZV. Gregor je delal kot gostujoči raziskovalec v Centru za analizo podatkov in biomedicinsko analitiko (DABI) na Univerzi Temple (2012), kot gostujoči docent v Shah Lab, Stanford School of Medicine, Stanford University (2013) in kot gostujoči raziskovalec na Usher Institute, Univerza Edinburgh (2019).&lt;/p&gt;
 &lt;p&gt;Njegova raziskovalna področja vključujejo tehnike strojnega učenja z uporabo v zdravstvu. Specifična področja vključujejo razumljivost napovednih modelov, klasifikacija, ki temelji na človeški interakciji, stabilnost algoritmov za izbiro lastnosti, meta učenje in odkrivanje longitudinalnih pravil. Njegovo delo je bilo objavljeno na številnih konferencah, v revijah in knjigah. Gregor je imel predavanja o svojem odkrivanju znanja v zdravstvu in raziskavah bioinformatike na priznanih raziskovalnih ustanovah, kot je IBM T.J. Watson Research Center, Univerza Stanford, Univerza Manchester, Univerza Edinburgh in Univerza Tokio.&lt;/p&gt;
 &lt;p&gt;Bil je soorganizator serije delavnic o rudarjenju podatkov za medicino in zdravstvo, ki so potekale v povezavi s SIAM SDM 2013 (Austin, TX, ZDA), 2014 (Philadelphia, PA, ZDA), 2015 (Vancouver, BC, Kanada). ) in 2016 (Miami, FL, ZDA). Gregor je bil tudi soorganizator 1. in 2. delavnice o rudarjenju podatkov za medicinsko informatiko, ki je potekala v povezavi z letno konferenco Ameriškega združenja za medicinsko informatiko (AMIA) leta 2014 (Washington, DC) in 2015 (San Francisco, CA). Bil je tudi vodja programa Analytics Track na mednarodni konferenci IEEE o zdravstveni informatiki (ICHI) leta 2016 v Chicagu, IL.&lt;/p&gt;
@@ -26,18 +26,18 @@
     
     <item>
       <title>Lucija Gosak</title>
-      <link>//localhost:4321/sl/author/lucija-gosak/</link>
+      <link>http://localhost:4322/si/author/lucija-gosak/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/sl/author/lucija-gosak/</guid>
+      <guid>http://localhost:4322/si/author/lucija-gosak/</guid>
       <description>&lt;p&gt;Lucija Gosak je asistentka in raziskovalka na Univerzi v Mariboru, Fakulteti za zdravstvene vede, kjer je tudi doktorska študentka zdravstvene nege. Njeni raziskovalni interesi so vključevanje informacijsko-komunikacijske tehnologije v življenje ljudi z namenom vzdrževanja zdravja. Trenutno se ukvarja z vključevanjem mobilnih zdravstvenih aplikacij v oskrbo pacientov s kroničnimi boleznimi. Prav tako njeno delo zajema statistično analizo podatkov.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Leon Kopitar</title>
-      <link>//localhost:4321/sl/author/leon-kopitar/</link>
+      <link>http://localhost:4322/si/author/leon-kopitar/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/sl/author/leon-kopitar/</guid>
+      <guid>http://localhost:4322/si/author/leon-kopitar/</guid>
       <description>&lt;p&gt;Leon Kopitar je zaposlen kot višji raziskovalec na Fakulteti za zdravstvene vede, na članici Univerze v Mariboru. Na Univerzi v Mariboru, Fakulteti za elektrotehniko, računalništvo in informatiko opravlja doktorski študij Računalništva in informatike.&lt;/p&gt;
 &lt;p&gt;Njegov raziskovalni interes vključuje aplikativnost metod strojnega učenja na področju zdravstva.&lt;/p&gt;
 </description>
@@ -45,9 +45,9 @@
     
     <item>
       <title>Nino Fijačko</title>
-      <link>//localhost:4321/sl/author/nino-fijacko/</link>
+      <link>http://localhost:4322/si/author/nino-fijacko/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/sl/author/nino-fijacko/</guid>
+      <guid>http://localhost:4322/si/author/nino-fijacko/</guid>
       <description>&lt;p&gt;Nino Fijačko je zaposlen na Univerzi v Mariboru, Fakulteta za zdravstvene vede kot asistent na področju Zdravstvene nege. Na Univerzi v Mariboru, Medicinski fakulteti opravlja doktorski študij Biomedicinske tehnologije. Njegovo raziskovalno področje je mešanica najnovejših pedagoških pristopov na različnih področjih zdravstva.&lt;/p&gt;
 &lt;p&gt;V okviru svojega doktorske disertacije izvaja raziskave o tem, kako resne igre in igrifikacija vplivajo na raven fizioloških in psiholoških lastnosti posameznih oseb v različnih situacijah, kot je na primer kardiopulmonalno oživljanje.&lt;/p&gt;
 </description>
@@ -55,26 +55,26 @@
     
     <item>
       <title>Primož Kocbek</title>
-      <link>//localhost:4321/sl/author/primoz-kocbek/</link>
+      <link>http://localhost:4322/si/author/primoz-kocbek/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/sl/author/primoz-kocbek/</guid>
+      <guid>http://localhost:4322/si/author/primoz-kocbek/</guid>
       <description>&lt;p&gt;Primož Kocbek je raziskovalni asistent na Univerzi v Mariboru, Fakulteti za zdravstvene vede in doktorski študent biostatistike na Univerzi v Ljubljani. Njegov raziskovalni interes vključuje statistično modeliranje in tehnike strojnega učenja z aplikacijami v zdravstvu. Trenutno je osredotočen na modele strojnega učenja z vključitvijo časovne odvisnosti podatkov iz elektronskih zdravstvenih zapisov in njihovo interpretabilnostjo, kar bo del njegove doktorske disertacije. Sodeloval je tudi v več nacionalnih in mednarodnih raziskovalnih projektih povezanih s strojnim učenjem v zdravstvu.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robert Greif</title>
-      <link>//localhost:4321/sl/author/robert-greif/</link>
+      <link>http://localhost:4322/si/author/robert-greif/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/sl/author/robert-greif/</guid>
+      <guid>http://localhost:4322/si/author/robert-greif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kasandra Musović</title>
-      <link>//localhost:4321/sl/author/kasandra-musovic/</link>
+      <link>http://localhost:4322/si/author/kasandra-musovic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/sl/author/kasandra-musovic/</guid>
+      <guid>http://localhost:4322/si/author/kasandra-musovic/</guid>
       <description>&lt;p&gt;Kasandra Musović je zaposlena na Univerzi v Mariboru, Fakulteti za zdravstvene vede kot asistentka na področju Zdravstvene nege in oskrbe, kjer je tudi doktorska študentka. Njeni raziskovalni interesi so skrb v izobraževanju v zdravstveni negi, na znanstvenih dokazih utemeljena zdravstvena nega ter raziskovalne metode, tako kvantitativne kot kvalitativne.
 V okviru svoje doktorske disertacije izvaja raziskavo o adaptaciji Watsonove teorije skrbi v izobraževanju v zdravstveni negi.&lt;/p&gt;
 </description>
@@ -82,9 +82,9 @@ V okviru svoje doktorske disertacije izvaja raziskavo o adaptaciji Watsonove teo
     
     <item>
       <title>Mateja Lorber</title>
-      <link>//localhost:4321/sl/author/mateja-lorber/</link>
+      <link>http://localhost:4322/si/author/mateja-lorber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/sl/author/mateja-lorber/</guid>
+      <guid>http://localhost:4322/si/author/mateja-lorber/</guid>
       <description></description>
     </item>
     
