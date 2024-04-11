@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dominic J. Egan | </title>
-    <link>//localhost:4321/sl/author/dominic-j.-egan/</link>
-      <atom:link href="//localhost:4321/sl/author/dominic-j.-egan/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4322/sl/author/dominic-j.-egan/</link>
+      <atom:link href="http://localhost:4322/sl/author/dominic-j.-egan/index.xml" rel="self" type="application/rss+xml" />
     <description>Dominic J. Egan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language>
     <image>
-      <url>//localhost:4321/sl/author/dominic-j.-egan/avatar_hu221a5ff82bf8d6904f395006b3a71ed0_117048_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:4322/sl/author/dominic-j.-egan/avatar_hu221a5ff82bf8d6904f395006b3a71ed0_117048_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Dominic J. Egan</title>
-      <link>//localhost:4321/sl/author/dominic-j.-egan/</link>
+      <link>http://localhost:4322/sl/author/dominic-j.-egan/</link>
     </image>
     
   </channel>

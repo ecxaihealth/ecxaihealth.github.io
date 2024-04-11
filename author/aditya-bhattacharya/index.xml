@@ -2,29 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aditya Bhattacharya | </title>
-    <link>http://localhost:4321/author/aditya-bhattacharya/</link>
-      <atom:link href="http://localhost:4321/author/aditya-bhattacharya/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/aditya-bhattacharya/</link>
+      <atom:link href="/author/aditya-bhattacharya/index.xml" rel="self" type="application/rss+xml" />
     <description>Aditya Bhattacharya</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/author/aditya-bhattacharya/avatar_hu5c835f269e25e3cbbab0b06eba3bfb3d_313822_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/aditya-bhattacharya/avatar_hu5c835f269e25e3cbbab0b06eba3bfb3d_313822_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Aditya Bhattacharya</title>
-      <link>http://localhost:4321/author/aditya-bhattacharya/</link>
+      <link>/author/aditya-bhattacharya/</link>
     </image>
     
     <item>
-      <title>EXMOS: Explanatory Model Steering Through Multifaceted Explanations and Data Configurations</title>
-      <link>http://localhost:4321/publication/09_chi_2024/</link>
-      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/09_chi_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Directive Explanations for Monitoring the Risk of Diabetes Onset: Introducing Directive Data-Centric Explanations and Combinations to Support What-If Explorations</title>
-      <link>http://localhost:4321/publication/02_iui_2023/</link>
+      <link>/publication/02_iui_2023/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/02_iui_2023/</guid>
+      <guid>/publication/02_iui_2023/</guid>
       <description></description>
     </item>
     

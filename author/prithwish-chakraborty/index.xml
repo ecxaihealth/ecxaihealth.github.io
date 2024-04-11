@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prithwish Chakraborty | </title>
-    <link>http://localhost:4321/author/prithwish-chakraborty/</link>
-      <atom:link href="http://localhost:4321/author/prithwish-chakraborty/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/prithwish-chakraborty/</link>
+      <atom:link href="/author/prithwish-chakraborty/index.xml" rel="self" type="application/rss+xml" />
     <description>Prithwish Chakraborty</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/author/prithwish-chakraborty/avatar_hu75f9aad3df361487e1dee2489c8740a1_62588_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/prithwish-chakraborty/avatar_hu75f9aad3df361487e1dee2489c8740a1_62588_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Prithwish Chakraborty</title>
-      <link>http://localhost:4321/author/prithwish-chakraborty/</link>
+      <link>/author/prithwish-chakraborty/</link>
     </image>
     
     <item>
       <title>Improving primary healthcare workflow using extreme summarization of scientific literature based on generative AI</title>
-      <link>http://localhost:4321/publication/05_dshealth_2023/</link>
+      <link>/publication/05_dshealth_2023/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/05_dshealth_2023/</guid>
+      <guid>/publication/05_dshealth_2023/</guid>
       <description></description>
     </item>
     
