@@ -8,7 +8,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/event/example/"
+                href="http://localhost:4321/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -22,7 +22,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/event/"
+                href="http://localhost:4321/event/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,7 +36,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/aditya-bhattacharya/"
+                href="http://localhost:4321/author/aditya-bhattacharya/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -50,7 +50,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/authors/"
+                href="http://localhost:4321/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -68,7 +68,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/gregor-stiglic/"
+                href="http://localhost:4321/author/gregor-stiglic/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -86,7 +86,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/katrien-verbert/"
+                href="http://localhost:4321/author/katrien-verbert/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -100,7 +100,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/lucija-gosak/"
+                href="http://localhost:4321/author/lucija-gosak/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -118,7 +118,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/publication-type/paper-conference/"
+                href="http://localhost:4321/publication-type/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -132,7 +132,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/publication_types/"
+                href="http://localhost:4321/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -146,7 +146,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/publication/"
+                href="http://localhost:4321/publication/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -164,7 +164,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/simone-stumpf/"
+                href="http://localhost:4321/author/simone-stumpf/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -182,7 +182,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/tags/"
+                href="http://localhost:4321/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -200,7 +200,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/publication-type/article-journal/"
+                href="http://localhost:4321/publication-type/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -218,7 +218,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/tag/gpt/"
+                href="http://localhost:4321/tag/gpt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -232,7 +232,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/iztok-jr-fister/"
+                href="http://localhost:4321/author/iztok-jr-fister/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -250,7 +250,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/leon-kopitar/"
+                href="http://localhost:4321/author/leon-kopitar/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -280,7 +280,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/tag/european-resuscitation-council/"
+                href="http://localhost:4321/tag/european-resuscitation-council/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -302,7 +302,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/nino-fijacko/"
+                href="http://localhost:4321/author/nino-fijacko/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -320,7 +320,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/primoz-kocbek/"
+                href="http://localhost:4321/author/primoz-kocbek/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -366,7 +366,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/publication/07_prevmedrep_2024/"
+                href="http://localhost:4321/publication/07_prevmedrep_2024/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -380,7 +380,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/ruth-masterson-creber/"
+                href="http://localhost:4321/author/ruth-masterson-creber/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -394,7 +394,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/spela-metlicar/"
+                href="http://localhost:4321/author/spela-metlicar/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -424,7 +424,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/jeroen-ooge/"
+                href="http://localhost:4321/author/jeroen-ooge/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -486,7 +486,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/jiang-bian/"
+                href="http://localhost:4321/author/jiang-bian/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -500,7 +500,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/pablo-meyer/"
+                href="http://localhost:4321/author/pablo-meyer/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -514,7 +514,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/peter-creber/"
+                href="http://localhost:4321/author/peter-creber/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -544,7 +544,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/zhe-he/"
+                href="http://localhost:4321/author/zhe-he/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -558,7 +558,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/benjamin-s.-abella/"
+                href="http://localhost:4321/author/benjamin-s.-abella/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -584,7 +584,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/robert-greif/"
+                href="http://localhost:4321/author/robert-greif/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -606,7 +606,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/publication/02_iui_2023/"
+                href="http://localhost:4321/publication/02_iui_2023/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -628,7 +628,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/tag/chatgpt/"
+                href="http://localhost:4321/tag/chatgpt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -642,7 +642,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/leona-cilar-budler/"
+                href="http://localhost:4321/author/leona-cilar-budler/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -660,7 +660,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/publication/01_wires_2023/"
+                href="http://localhost:4321/publication/01_wires_2023/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -674,7 +674,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/"
+                href="http://localhost:4321/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -688,7 +688,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/contact/"
+                href="http://localhost:4321/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -706,7 +706,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/project/fwo-aris_2023-26/"
+                href="http://localhost:4321/project/fwo-aris_2023-26/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -720,7 +720,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/project/"
+                href="http://localhost:4321/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -734,7 +734,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/people/"
+                href="http://localhost:4321/people/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -748,7 +748,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/tour/"
+                href="http://localhost:4321/tour/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -762,7 +762,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/post/20-12-02-icml-best-paper/"
+                href="http://localhost:4321/post/20-12-02-icml-best-paper/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -776,7 +776,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/post/"
+                href="http://localhost:4321/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -790,7 +790,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/post/20-12-01-wowchemy-prize/"
+                href="http://localhost:4321/post/20-12-01-wowchemy-prize/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -803,7 +803,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/admin/"
+                href="http://localhost:4321/admin/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -816,7 +816,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/pavel-skok/"
+                href="http://localhost:4321/author/pavel-skok/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -829,7 +829,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/alenka-novsak/"
+                href="http://localhost:4321/author/alenka-novsak/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -842,7 +842,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/aziz-sheikh/"
+                href="http://localhost:4321/author/aziz-sheikh/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -855,7 +855,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/brian-chaka/"
+                href="http://localhost:4321/author/brian-chaka/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -868,7 +868,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/bright-i-nwaru/"
+                href="http://localhost:4321/author/bright-i-nwaru/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -881,7 +881,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/carolina-chabrera-sanz/"
+                href="http://localhost:4321/author/carolina-chabrera-sanz/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -894,7 +894,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/categories/"
+                href="http://localhost:4321/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -907,7 +907,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/dominic-j.-egan/"
+                href="http://localhost:4321/author/dominic-j.-egan/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -920,7 +920,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/dominika-vrbnjak/"
+                href="http://localhost:4321/author/dominika-vrbnjak/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -933,7 +933,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/esther-cabrera-torres/"
+                href="http://localhost:4321/author/esther-cabrera-torres/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -946,7 +946,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/fei-wang/"
+                href="http://localhost:4321/author/fei-wang/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -959,7 +959,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/goran-hrovat/"
+                href="http://localhost:4321/author/goran-hrovat/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -972,7 +972,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/isa-brito-felix/"
+                href="http://localhost:4321/author/isa-brito-felix/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -985,7 +985,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/janja-kamensek/"
+                href="http://localhost:4321/author/janja-kamensek/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -998,7 +998,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/kasandra-musovic/"
+                href="http://localhost:4321/author/kasandra-musovic/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1011,7 +1011,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/katja-braam/"
+                href="http://localhost:4321/author/katja-braam/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1024,7 +1024,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/leen-van-houdt/"
+                href="http://localhost:4321/author/leen-van-houdt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1037,7 +1037,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/majda-pajnkihar-faan-feans/"
+                href="http://localhost:4321/author/majda-pajnkihar-faan-feans/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1050,7 +1050,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/mara-pereira-guerreiro/"
+                href="http://localhost:4321/author/mara-pereira-guerreiro/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1063,7 +1063,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/marinka-zitnik/"
+                href="http://localhost:4321/author/marinka-zitnik/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1076,7 +1076,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/matej-strnad/"
+                href="http://localhost:4321/author/matej-strnad/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1089,7 +1089,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/mateja-lorber/"
+                href="http://localhost:4321/author/mateja-lorber/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1102,7 +1102,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/nelson-bighetti/"
+                href="http://localhost:4321/author/nelson-bighetti/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1115,7 +1115,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/nika-debeljak/"
+                href="http://localhost:4321/author/nika-debeljak/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1128,7 +1128,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/nyi-nyi-htun/"
+                href="http://localhost:4321/author/nyi-nyi-htun/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1141,7 +1141,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/paige-wickner/"
+                href="http://localhost:4321/author/paige-wickner/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1154,7 +1154,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/prithwish-chakraborty/"
+                href="http://localhost:4321/author/prithwish-chakraborty/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1167,7 +1167,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/robin-de-croon/"
+                href="http://localhost:4321/author/robin-de-croon/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1180,7 +1180,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/roger-watson/"
+                href="http://localhost:4321/author/roger-watson/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1193,7 +1193,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/simon-kocbek/"
+                href="http://localhost:4321/author/simon-kocbek/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1206,7 +1206,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/en/author/vero-vanden-abeele/"
+                href="http://localhost:4321/author/vero-vanden-abeele/"
                 />
     <xhtml:link
                 rel="alternate"
