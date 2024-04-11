@@ -2,1216 +2,1216 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/sl/event/example/</loc>
+    <loc>//localhost:4321/sl/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/event/example/"
+                href="//localhost:4321/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/event/example/"
+                href="//localhost:4321/sl/event/example/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/event/</loc>
+    <loc>//localhost:4321/sl/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/event/"
+                href="//localhost:4321/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/event/"
+                href="//localhost:4321/sl/event/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/aditya-bhattacharya/</loc>
+    <loc>//localhost:4321/sl/author/aditya-bhattacharya/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/aditya-bhattacharya/"
+                href="//localhost:4321/author/aditya-bhattacharya/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/aditya-bhattacharya/"
+                href="//localhost:4321/sl/author/aditya-bhattacharya/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/authors/</loc>
+    <loc>//localhost:4321/sl/authors/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/authors/"
+                href="//localhost:4321/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/authors/"
+                href="//localhost:4321/sl/authors/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/publication/10_chi_2024/</loc>
+    <loc>//localhost:4321/sl/publication/10_chi_2024/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/author/gregor-stiglic/</loc>
+    <loc>//localhost:4321/sl/author/gregor-stiglic/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/gregor-stiglic/"
+                href="//localhost:4321/author/gregor-stiglic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/gregor-stiglic/"
+                href="//localhost:4321/sl/author/gregor-stiglic/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/interpretabilnost/</loc>
+    <loc>//localhost:4321/sl/tag/interpretabilnost/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/author/katrien-verbert/</loc>
+    <loc>//localhost:4321/sl/author/katrien-verbert/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/katrien-verbert/"
+                href="//localhost:4321/author/katrien-verbert/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/katrien-verbert/"
+                href="//localhost:4321/sl/author/katrien-verbert/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/lucija-gosak/</loc>
+    <loc>//localhost:4321/sl/author/lucija-gosak/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/lucija-gosak/"
+                href="//localhost:4321/author/lucija-gosak/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/lucija-gosak/"
+                href="//localhost:4321/sl/author/lucija-gosak/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/na-cloveka-osredotocena-ui/</loc>
+    <loc>//localhost:4321/sl/tag/na-cloveka-osredotocena-ui/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/publication-type/paper-conference/</loc>
+    <loc>//localhost:4321/sl/publication-type/paper-conference/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/publication-type/paper-conference/"
+                href="//localhost:4321/publication-type/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/publication-type/paper-conference/"
+                href="//localhost:4321/sl/publication-type/paper-conference/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/publication_types/</loc>
+    <loc>//localhost:4321/sl/publication_types/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/publication_types/"
+                href="//localhost:4321/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/publication_types/"
+                href="//localhost:4321/sl/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/publication/</loc>
+    <loc>//localhost:4321/sl/publication/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/publication/"
+                href="//localhost:4321/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/publication/"
+                href="//localhost:4321/sl/publication/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/razlagalno-interaktivno-ucenje/</loc>
+    <loc>//localhost:4321/sl/tag/razlagalno-interaktivno-ucenje/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/author/ss_en_col/</loc>
+    <loc>//localhost:4321/sl/author/ss_en_col/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/simone-stumpf/"
+                href="//localhost:4321/author/simone-stumpf/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/ss_en_col/"
+                href="//localhost:4321/sl/author/ss_en_col/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/strojno-ucenje/</loc>
+    <loc>//localhost:4321/sl/tag/strojno-ucenje/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tags/</loc>
+    <loc>//localhost:4321/sl/tags/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/tags/"
+                href="//localhost:4321/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/tags/"
+                href="//localhost:4321/sl/tags/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/upravljanje-modelov/</loc>
+    <loc>//localhost:4321/sl/tag/upravljanje-modelov/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/publication-type/article-journal/</loc>
+    <loc>//localhost:4321/sl/publication-type/article-journal/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/publication-type/article-journal/"
+                href="//localhost:4321/publication-type/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/publication-type/article-journal/"
+                href="//localhost:4321/sl/publication-type/article-journal/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/diaagnostika/</loc>
+    <loc>//localhost:4321/sl/tag/diaagnostika/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/gpt/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/tag/gpt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="http://localhost:4321/sl/tag/gpt/"
-                />
-  </url><url>
-    <loc>http://localhost:4321/sl/author/iztok-jr-fister/</loc>
+    <loc>//localhost:4321/sl/tag/gpt/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/iztok-jr-fister/"
+                href="//localhost:4321/tag/gpt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/iztok-jr-fister/"
+                href="//localhost:4321/sl/tag/gpt/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/klasifikacija/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/sl/author/leon-kopitar/</loc>
+    <loc>//localhost:4321/sl/author/iztok-jr-fister/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/leon-kopitar/"
+                href="//localhost:4321/author/iztok-jr-fister/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/leon-kopitar/"
+                href="//localhost:4321/sl/author/iztok-jr-fister/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/rudarjenje-pravil-zdruzevanja/</loc>
+    <loc>//localhost:4321/sl/tag/klasifikacija/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/publication/09_infor_2024/</loc>
+    <loc>//localhost:4321/sl/author/leon-kopitar/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:4321/author/leon-kopitar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="//localhost:4321/sl/author/leon-kopitar/"
+                />
+  </url><url>
+    <loc>//localhost:4321/sl/tag/rudarjenje-pravil-zdruzevanja/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/bibliometricna-analiza/</loc>
+    <loc>//localhost:4321/sl/publication/09_infor_2024/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:4321/sl/tag/bibliometricna-analiza/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/author/bsa_en/</loc>
+    <loc>//localhost:4321/sl/author/bsa_en/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/european-resuscitation-council/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/tag/european-resuscitation-council/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="http://localhost:4321/sl/tag/european-resuscitation-council/"
-                />
-  </url><url>
-    <loc>http://localhost:4321/sl/tag/generativna-ui/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/sl/tag/kongres/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/sl/author/nino-fijacko/</loc>
+    <loc>//localhost:4321/sl/tag/european-resuscitation-council/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/nino-fijacko/"
+                href="//localhost:4321/tag/european-resuscitation-council/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/nino-fijacko/"
+                href="//localhost:4321/sl/tag/european-resuscitation-council/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/nujna-medicina/</loc>
+    <loc>//localhost:4321/sl/tag/generativna-ui/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/author/primoz-kocbek/</loc>
+    <loc>//localhost:4321/sl/tag/kongres/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:4321/sl/author/nino-fijacko/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/primoz-kocbek/"
+                href="//localhost:4321/author/nino-fijacko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/primoz-kocbek/"
+                href="//localhost:4321/sl/author/nino-fijacko/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/rg_col/</loc>
+    <loc>//localhost:4321/sl/tag/nujna-medicina/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/author/rmc_en/</loc>
+    <loc>//localhost:4321/sl/author/primoz-kocbek/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:4321/author/primoz-kocbek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="//localhost:4321/sl/author/primoz-kocbek/"
+                />
+  </url><url>
+    <loc>//localhost:4321/sl/author/rg_col/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/author/sm_col/</loc>
+    <loc>//localhost:4321/sl/author/rmc_en/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/publication/08_res_plus_2024/</loc>
+    <loc>//localhost:4321/sl/author/sm_col/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/delovna-obremenitev/</loc>
+    <loc>//localhost:4321/sl/publication/08_res_plus_2024/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:4321/sl/tag/delovna-obremenitev/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/fizicna-aktivnost/</loc>
+    <loc>//localhost:4321/sl/tag/fizicna-aktivnost/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/izmensko-delo/</loc>
+    <loc>//localhost:4321/sl/tag/izmensko-delo/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/merilnik-pospeska/</loc>
+    <loc>//localhost:4321/sl/tag/merilnik-pospeska/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/publication/07_prevmedrep_2024/</loc>
+    <loc>//localhost:4321/sl/publication/07_prevmedrep_2024/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/publication/07_prevmedrep_2024/"
+                href="//localhost:4321/publication/07_prevmedrep_2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/publication/07_prevmedrep_2024/"
+                href="//localhost:4321/sl/publication/07_prevmedrep_2024/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/ruth-masterson-creber/</loc>
+    <loc>//localhost:4321/sl/author/ruth-masterson-creber/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/ruth-masterson-creber/"
+                href="//localhost:4321/author/ruth-masterson-creber/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/ruth-masterson-creber/"
+                href="//localhost:4321/sl/author/ruth-masterson-creber/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/spela-metlicar/</loc>
+    <loc>//localhost:4321/sl/author/spela-metlicar/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/spela-metlicar/"
+                href="//localhost:4321/author/spela-metlicar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/spela-metlicar/"
+                href="//localhost:4321/sl/author/spela-metlicar/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/zdravje-pri-delu/</loc>
+    <loc>//localhost:4321/sl/tag/zdravje-pri-delu/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/zdravstvena-nega/</loc>
+    <loc>//localhost:4321/sl/tag/zdravstvena-nega/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/zdravstveni-delavci/</loc>
+    <loc>//localhost:4321/sl/tag/zdravstveni-delavci/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/aplikacije-pametnih-telefonov/</loc>
+    <loc>//localhost:4321/sl/tag/aplikacije-pametnih-telefonov/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/author/jeroen-ooge/</loc>
+    <loc>//localhost:4321/sl/author/jeroen-ooge/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/jeroen-ooge/"
+                href="//localhost:4321/author/jeroen-ooge/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/jeroen-ooge/"
+                href="//localhost:4321/sl/author/jeroen-ooge/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/kj_en_col/</loc>
+    <loc>//localhost:4321/sl/author/kj_en_col/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/kvaliteta-aplikacij/</loc>
+    <loc>//localhost:4321/sl/tag/kvaliteta-aplikacij/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/mobilni-telefoni/</loc>
+    <loc>//localhost:4321/sl/tag/mobilni-telefoni/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/mobilno-zdravje/</loc>
+    <loc>//localhost:4321/sl/tag/mobilno-zdravje/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/author/nd_en/</loc>
+    <loc>//localhost:4321/sl/author/nd_en/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/publication/06_ceciis_2023/</loc>
+    <loc>//localhost:4321/sl/publication/06_ceciis_2023/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/zdravstveno-obnasanje/</loc>
+    <loc>//localhost:4321/sl/tag/zdravstveno-obnasanje/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/brezbrizni-anketiranci/</loc>
+    <loc>//localhost:4321/sl/tag/brezbrizni-anketiranci/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/lokalna-interpretabilnost/</loc>
+    <loc>//localhost:4321/sl/tag/lokalna-interpretabilnost/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/publication/05_scirep_2023/</loc>
+    <loc>//localhost:4321/sl/publication/05_scirep_2023/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/vprasalnik/</loc>
+    <loc>//localhost:4321/sl/tag/vprasalnik/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/publication/04_dshealth_2023/</loc>
+    <loc>//localhost:4321/sl/publication/04_dshealth_2023/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/author/jiang-bian/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/author/jiang-bian/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="http://localhost:4321/sl/author/jiang-bian/"
-                />
-  </url><url>
-    <loc>http://localhost:4321/sl/author/pablo-meyer/</loc>
+    <loc>//localhost:4321/sl/author/jiang-bian/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/pablo-meyer/"
+                href="//localhost:4321/author/jiang-bian/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/pablo-meyer/"
+                href="//localhost:4321/sl/author/jiang-bian/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/peter-creber/</loc>
+    <loc>//localhost:4321/sl/author/pablo-meyer/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/peter-creber/"
+                href="//localhost:4321/author/pablo-meyer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/peter-creber/"
+                href="//localhost:4321/sl/author/pablo-meyer/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/povzemanje/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/sl/tag/umetna-inteligenca/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/sl/tag/veliki-jezikovni-modeli/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/sl/tag/zdravstvo/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/sl/author/zhe-he/</loc>
+    <loc>//localhost:4321/sl/author/peter-creber/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/zhe-he/"
+                href="//localhost:4321/author/peter-creber/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/zhe-he/"
+                href="//localhost:4321/sl/author/peter-creber/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/benjamin-s.-abella/</loc>
+    <loc>//localhost:4321/sl/tag/povzemanje/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:4321/sl/tag/umetna-inteligenca/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:4321/sl/tag/veliki-jezikovni-modeli/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:4321/sl/tag/zdravstvo/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:4321/sl/author/zhe-he/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:4321/author/zhe-he/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="//localhost:4321/sl/author/zhe-he/"
+                />
+  </url><url>
+    <loc>//localhost:4321/sl/author/benjamin-s.-abella/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/benjamin-s.-abella/"
+                href="//localhost:4321/author/benjamin-s.-abella/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/benjamin-s.-abella/"
+                href="//localhost:4321/sl/author/benjamin-s.-abella/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/druzbeni-mediji/</loc>
+    <loc>//localhost:4321/sl/tag/druzbeni-mediji/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/ozivljanje/</loc>
+    <loc>//localhost:4321/sl/tag/ozivljanje/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/primer-uporabe/</loc>
+    <loc>//localhost:4321/sl/tag/primer-uporabe/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/author/robert-greif/</loc>
+    <loc>//localhost:4321/sl/author/robert-greif/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/robert-greif/"
+                href="//localhost:4321/author/robert-greif/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/robert-greif/"
+                href="//localhost:4321/sl/author/robert-greif/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/publication/03_jama_open_2023/</loc>
+    <loc>//localhost:4321/sl/publication/03_jama_open_2023/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/sentimentalna-analiza/</loc>
+    <loc>//localhost:4321/sl/tag/sentimentalna-analiza/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/publication/02_iui_2023/</loc>
+    <loc>//localhost:4321/sl/publication/02_iui_2023/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/publication/02_iui_2023/"
+                href="//localhost:4321/publication/02_iui_2023/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/publication/02_iui_2023/"
+                href="//localhost:4321/sl/publication/02_iui_2023/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/razlozljiva-ui/</loc>
+    <loc>//localhost:4321/sl/tag/razlozljiva-ui/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/vizualna-analitika/</loc>
+    <loc>//localhost:4321/sl/tag/vizualna-analitika/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/tag/chatgpt/</loc>
+    <loc>//localhost:4321/sl/tag/chatgpt/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/tag/chatgpt/"
+                href="//localhost:4321/tag/chatgpt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/tag/chatgpt/"
+                href="//localhost:4321/sl/tag/chatgpt/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/leona-cilar-budler/</loc>
+    <loc>//localhost:4321/sl/author/leona-cilar-budler/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/leona-cilar-budler/"
+                href="//localhost:4321/author/leona-cilar-budler/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/leona-cilar-budler/"
+                href="//localhost:4321/sl/author/leona-cilar-budler/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/pogovorni-agenti/</loc>
+    <loc>//localhost:4321/sl/tag/pogovorni-agenti/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/publication/01_wires_2023/</loc>
+    <loc>//localhost:4321/sl/publication/01_wires_2023/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/publication/01_wires_2023/"
+                href="//localhost:4321/publication/01_wires_2023/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/publication/01_wires_2023/"
+                href="//localhost:4321/sl/publication/01_wires_2023/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/</loc>
+    <loc>//localhost:4321/sl/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/"
+                href="//localhost:4321/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/"
+                href="//localhost:4321/sl/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/contact/</loc>
+    <loc>//localhost:4321/sl/contact/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/contact/"
+                href="//localhost:4321/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/contact/"
+                href="//localhost:4321/sl/contact/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tag/napovedni-modeli/</loc>
+    <loc>//localhost:4321/sl/tag/napovedni-modeli/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/sl/project/fwo-aris_2023-26/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/project/fwo-aris_2023-26/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sl"
-                href="http://localhost:4321/sl/project/fwo-aris_2023-26/"
-                />
-  </url><url>
-    <loc>http://localhost:4321/sl/project/</loc>
+    <loc>//localhost:4321/sl/project/fwo-aris_2023-26/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/project/"
+                href="//localhost:4321/project/fwo-aris_2023-26/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/project/"
+                href="//localhost:4321/sl/project/fwo-aris_2023-26/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/people/</loc>
+    <loc>//localhost:4321/sl/project/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:4321/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sl"
+                href="//localhost:4321/sl/project/"
+                />
+  </url><url>
+    <loc>//localhost:4321/sl/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/people/"
+                href="//localhost:4321/people/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/people/"
+                href="//localhost:4321/sl/people/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/tour/</loc>
+    <loc>//localhost:4321/sl/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/tour/"
+                href="//localhost:4321/tour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/tour/"
+                href="//localhost:4321/sl/tour/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/post/20-12-02-icml-best-paper/</loc>
+    <loc>//localhost:4321/sl/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/post/20-12-02-icml-best-paper/"
+                href="//localhost:4321/post/20-12-02-icml-best-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/post/20-12-02-icml-best-paper/"
+                href="//localhost:4321/sl/post/20-12-02-icml-best-paper/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/post/</loc>
+    <loc>//localhost:4321/sl/post/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/post/"
+                href="//localhost:4321/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/post/"
+                href="//localhost:4321/sl/post/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/post/20-12-01-wowchemy-prize/</loc>
+    <loc>//localhost:4321/sl/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/post/20-12-01-wowchemy-prize/"
+                href="//localhost:4321/post/20-12-01-wowchemy-prize/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/post/20-12-01-wowchemy-prize/"
+                href="//localhost:4321/sl/post/20-12-01-wowchemy-prize/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/admin/</loc>
+    <loc>//localhost:4321/sl/admin/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/admin/"
+                href="//localhost:4321/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/admin/"
+                href="//localhost:4321/sl/admin/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/</loc>
+    <loc>//localhost:4321/sl/author/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/pavel-skok/"
+                href="//localhost:4321/author/pavel-skok/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/"
+                href="//localhost:4321/sl/author/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/alenka-novsak/</loc>
+    <loc>//localhost:4321/sl/author/alenka-novsak/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/alenka-novsak/"
+                href="//localhost:4321/author/alenka-novsak/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/alenka-novsak/"
+                href="//localhost:4321/sl/author/alenka-novsak/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/aziz-sheikh/</loc>
+    <loc>//localhost:4321/sl/author/aziz-sheikh/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/aziz-sheikh/"
+                href="//localhost:4321/author/aziz-sheikh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/aziz-sheikh/"
+                href="//localhost:4321/sl/author/aziz-sheikh/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/brian-chaka/</loc>
+    <loc>//localhost:4321/sl/author/brian-chaka/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/brian-chaka/"
+                href="//localhost:4321/author/brian-chaka/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/brian-chaka/"
+                href="//localhost:4321/sl/author/brian-chaka/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/bright-i-nwaru/</loc>
+    <loc>//localhost:4321/sl/author/bright-i-nwaru/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/bright-i-nwaru/"
+                href="//localhost:4321/author/bright-i-nwaru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/bright-i-nwaru/"
+                href="//localhost:4321/sl/author/bright-i-nwaru/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/carolina-chabrera-sanz/</loc>
+    <loc>//localhost:4321/sl/author/carolina-chabrera-sanz/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/carolina-chabrera-sanz/"
+                href="//localhost:4321/author/carolina-chabrera-sanz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/carolina-chabrera-sanz/"
+                href="//localhost:4321/sl/author/carolina-chabrera-sanz/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/categories/</loc>
+    <loc>//localhost:4321/sl/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/categories/"
+                href="//localhost:4321/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/categories/"
+                href="//localhost:4321/sl/categories/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/dominic-j.-egan/</loc>
+    <loc>//localhost:4321/sl/author/dominic-j.-egan/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/dominic-j.-egan/"
+                href="//localhost:4321/author/dominic-j.-egan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/dominic-j.-egan/"
+                href="//localhost:4321/sl/author/dominic-j.-egan/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/dominika-vrbnjak/</loc>
+    <loc>//localhost:4321/sl/author/dominika-vrbnjak/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/dominika-vrbnjak/"
+                href="//localhost:4321/author/dominika-vrbnjak/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/dominika-vrbnjak/"
+                href="//localhost:4321/sl/author/dominika-vrbnjak/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/esther-cabrera-torres/</loc>
+    <loc>//localhost:4321/sl/author/esther-cabrera-torres/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/esther-cabrera-torres/"
+                href="//localhost:4321/author/esther-cabrera-torres/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/esther-cabrera-torres/"
+                href="//localhost:4321/sl/author/esther-cabrera-torres/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/fei-wang/</loc>
+    <loc>//localhost:4321/sl/author/fei-wang/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/fei-wang/"
+                href="//localhost:4321/author/fei-wang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/fei-wang/"
+                href="//localhost:4321/sl/author/fei-wang/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/goran-hrovat/</loc>
+    <loc>//localhost:4321/sl/author/goran-hrovat/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/goran-hrovat/"
+                href="//localhost:4321/author/goran-hrovat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/goran-hrovat/"
+                href="//localhost:4321/sl/author/goran-hrovat/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/isa-brito-felix/</loc>
+    <loc>//localhost:4321/sl/author/isa-brito-felix/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/isa-brito-felix/"
+                href="//localhost:4321/author/isa-brito-felix/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/isa-brito-felix/"
+                href="//localhost:4321/sl/author/isa-brito-felix/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/janja-kamensek/</loc>
+    <loc>//localhost:4321/sl/author/janja-kamensek/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/janja-kamensek/"
+                href="//localhost:4321/author/janja-kamensek/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/janja-kamensek/"
+                href="//localhost:4321/sl/author/janja-kamensek/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/kasandra-musovic/</loc>
+    <loc>//localhost:4321/sl/author/kasandra-musovic/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/kasandra-musovic/"
+                href="//localhost:4321/author/kasandra-musovic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/kasandra-musovic/"
+                href="//localhost:4321/sl/author/kasandra-musovic/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/katja-braam/</loc>
+    <loc>//localhost:4321/sl/author/katja-braam/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/katja-braam/"
+                href="//localhost:4321/author/katja-braam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/katja-braam/"
+                href="//localhost:4321/sl/author/katja-braam/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/leen-van-houdt/</loc>
+    <loc>//localhost:4321/sl/author/leen-van-houdt/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/leen-van-houdt/"
+                href="//localhost:4321/author/leen-van-houdt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/leen-van-houdt/"
+                href="//localhost:4321/sl/author/leen-van-houdt/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/majda-pajnkihar-faan-feans/</loc>
+    <loc>//localhost:4321/sl/author/majda-pajnkihar-faan-feans/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/majda-pajnkihar-faan-feans/"
+                href="//localhost:4321/author/majda-pajnkihar-faan-feans/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/majda-pajnkihar-faan-feans/"
+                href="//localhost:4321/sl/author/majda-pajnkihar-faan-feans/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/mara-pereira-guerreiro/</loc>
+    <loc>//localhost:4321/sl/author/mara-pereira-guerreiro/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/mara-pereira-guerreiro/"
+                href="//localhost:4321/author/mara-pereira-guerreiro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/mara-pereira-guerreiro/"
+                href="//localhost:4321/sl/author/mara-pereira-guerreiro/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/marinka-zitnik/</loc>
+    <loc>//localhost:4321/sl/author/marinka-zitnik/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/marinka-zitnik/"
+                href="//localhost:4321/author/marinka-zitnik/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/marinka-zitnik/"
+                href="//localhost:4321/sl/author/marinka-zitnik/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/matej-strnad/</loc>
+    <loc>//localhost:4321/sl/author/matej-strnad/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/matej-strnad/"
+                href="//localhost:4321/author/matej-strnad/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/matej-strnad/"
+                href="//localhost:4321/sl/author/matej-strnad/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/mateja-lorber/</loc>
+    <loc>//localhost:4321/sl/author/mateja-lorber/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/mateja-lorber/"
+                href="//localhost:4321/author/mateja-lorber/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/mateja-lorber/"
+                href="//localhost:4321/sl/author/mateja-lorber/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/nelson-bighetti/</loc>
+    <loc>//localhost:4321/sl/author/nelson-bighetti/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/nelson-bighetti/"
+                href="//localhost:4321/author/nelson-bighetti/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/nelson-bighetti/"
+                href="//localhost:4321/sl/author/nelson-bighetti/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/nika-debeljak/</loc>
+    <loc>//localhost:4321/sl/author/nika-debeljak/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/nika-debeljak/"
+                href="//localhost:4321/author/nika-debeljak/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/nika-debeljak/"
+                href="//localhost:4321/sl/author/nika-debeljak/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/nyi-nyi-htun/</loc>
+    <loc>//localhost:4321/sl/author/nyi-nyi-htun/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/nyi-nyi-htun/"
+                href="//localhost:4321/author/nyi-nyi-htun/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/nyi-nyi-htun/"
+                href="//localhost:4321/sl/author/nyi-nyi-htun/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/paige-wickner/</loc>
+    <loc>//localhost:4321/sl/author/paige-wickner/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/paige-wickner/"
+                href="//localhost:4321/author/paige-wickner/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/paige-wickner/"
+                href="//localhost:4321/sl/author/paige-wickner/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/prithwish-chakraborty/</loc>
+    <loc>//localhost:4321/sl/author/prithwish-chakraborty/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/prithwish-chakraborty/"
+                href="//localhost:4321/author/prithwish-chakraborty/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/prithwish-chakraborty/"
+                href="//localhost:4321/sl/author/prithwish-chakraborty/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/robin-de-croon/</loc>
+    <loc>//localhost:4321/sl/author/robin-de-croon/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/robin-de-croon/"
+                href="//localhost:4321/author/robin-de-croon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/robin-de-croon/"
+                href="//localhost:4321/sl/author/robin-de-croon/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/roger-watson/</loc>
+    <loc>//localhost:4321/sl/author/roger-watson/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/roger-watson/"
+                href="//localhost:4321/author/roger-watson/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/roger-watson/"
+                href="//localhost:4321/sl/author/roger-watson/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/simon-kocbek/</loc>
+    <loc>//localhost:4321/sl/author/simon-kocbek/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/simon-kocbek/"
+                href="//localhost:4321/author/simon-kocbek/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/simon-kocbek/"
+                href="//localhost:4321/sl/author/simon-kocbek/"
                 />
   </url><url>
-    <loc>http://localhost:4321/sl/author/vero-vanden-abeele/</loc>
+    <loc>//localhost:4321/sl/author/vero-vanden-abeele/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/author/vero-vanden-abeele/"
+                href="//localhost:4321/author/vero-vanden-abeele/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4321/sl/author/vero-vanden-abeele/"
+                href="//localhost:4321/sl/author/vero-vanden-abeele/"
                 />
   </url>
 </urlset>
