@@ -14,9 +14,9 @@
     
     <item>
       <title>Gregor Štiglic</title>
-      <link>//localhost:4321/author/gregor-stiglic/</link>
+      <link>//localhost:4321/author/gregor-%C5%A1tiglic/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/author/gregor-stiglic/</guid>
+      <guid>//localhost:4321/author/gregor-%C5%A1tiglic/</guid>
       <description>&lt;p&gt;Gregor Stiglic is a vice dean for research, professor, and head of the Research Institute at the Faculty of Health Sciences, University of Maribor (FHS UM). At the University of Maribor, he worked on numerous national and international projects in healthcare informatics. He co-founded the Bioinformatics master study program at FHS UM. Gregor worked as a Visiting Researcher at Data Analysis and Biomedical Analytics (DABI) Center at Temple University (2012), as a Visiting Assistant Professor at Shah Lab, Stanford School of Medicine, Stanford University (2013), and as a visiting Research Fellow at Usher Institute, University of Edinburgh (2019).&lt;/p&gt;
 &lt;p&gt;His research interests encompass machine learning techniques with application to bioinformatics and healthcare. Specific areas of his technical interest include comprehensibility of classifiers, human interaction based classification, stability of feature selection algorithms, meta-learning and longitudinal rule discovery. His work was published in multiple conferences, journals and books. Gregor gave talks on his knowledge discovery in healthcare and bioinformatics research at renowned research institutions such as IBM T.J. Watson Research Center, Stanford University, University of Manchester, University of Edinburgh and University of Tokyo.&lt;/p&gt;
 &lt;p&gt;He served as a co-organizer of the series of Workshops on Data Mining for Medicine and Healthcare held in conjunction with SIAM SDM 2013 (Austin, TX, USA), 2014 (Philadelphia, PA, USA), 2015 (Vancouver, BC, Canada) and 2016 (Miami, FL, USA). Gregor also served as a co-organizer of the 1st and 2nd Workshop on Data Mining for Medical Informatics held in conjunction with the American Medical Informatics Association (AMIA) Annual Conference in 2014 (Washington, DC) and 2015 (San Francisco, CA). He also served as a program chair of the Analytics Track at the 2016 IEEE International Conference on Healthcare Informatics held in Chicago, IL.&lt;/p&gt;
@@ -53,9 +53,9 @@
     
     <item>
       <title>Nino Fijačko</title>
-      <link>//localhost:4321/author/nino-fijacko/</link>
+      <link>//localhost:4321/author/nino-fija%C4%8Dko/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/author/nino-fijacko/</guid>
+      <guid>//localhost:4321/author/nino-fija%C4%8Dko/</guid>
       <description>&lt;p&gt;Nino Fijacko is a Teaching Assistant in Nursing at the University of Maribor, Faculty of Health Sciences, and a PhD student in Biomedical Technology at the University of Maribor, Faculty of Medicine. His research field is a mixture of the newest pedagogical technologies in different healthcare fields and their effect on individual persons.&lt;/p&gt;
 &lt;p&gt;As part of his PhD, he is conducting research on how serious game in gamification affect the level of physiological and psychological aspects in critical situations, such as cardiopulmonary resuscitation.&lt;/p&gt;
 </description>
@@ -63,9 +63,9 @@
     
     <item>
       <title>Primož Kocbek</title>
-      <link>//localhost:4321/author/primoz-kocbek/</link>
+      <link>//localhost:4321/author/primo%C5%BE-kocbek/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/author/primoz-kocbek/</guid>
+      <guid>//localhost:4321/author/primo%C5%BE-kocbek/</guid>
       <description>&lt;p&gt;Primož Kocbek is a research assistant at University of Maribor, Faculty of Health Sciences and a PhD student of biostatistics at University of Ljubljana. His research interest includes statistical modeling and machine learning techniques with applications in healthcare. Currently his focus are machine learning models with temporal relations in Electronic Health Records and their interpretability, which is also part of his PhD thesis. He also participated in multiple national and international research projects associated with machine learning in healthcare.&lt;/p&gt;
 </description>
     </item>
@@ -88,9 +88,9 @@
     
     <item>
       <title>Kasandra Musović</title>
-      <link>//localhost:4321/author/kasandra-musovic/</link>
+      <link>//localhost:4321/author/kasandra-musovi%C4%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/author/kasandra-musovic/</guid>
+      <guid>//localhost:4321/author/kasandra-musovi%C4%87/</guid>
       <description>&lt;p&gt;Kasandra Musović is a Teaching Assistant in Nursing at the Faculty of Health Sciences, University of Maribor, and a PhD student in Nursing. Her research field is a mixture of science of caring and nursing education, evidence based nursing and research methods, both quantitative and qualitative.
 As part of his PhD, she is conducting research on the adaptation of Watson&amp;rsquo;s Theory of Caring in nursing education.&lt;/p&gt;
 </description>

@@ -66,18 +66,18 @@
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:4321/author/gregor-stiglic/</loc>
+    <loc>//localhost:4321/author/gregor-%C5%A1tiglic/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4322/si/author/gregor-stiglic/"
+                href="http://localhost:4322/si/author/gregor-%C5%A1tiglic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/author/gregor-stiglic/"
+                href="//localhost:4321/author/gregor-%C5%A1tiglic/"
                 />
   </url><url>
     <loc>//localhost:4321/tag/human-centered-ai/</loc>
@@ -310,32 +310,32 @@
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:4321/author/nino-fijacko/</loc>
+    <loc>//localhost:4321/author/nino-fija%C4%8Dko/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4322/si/author/nino-fijacko/"
+                href="http://localhost:4322/si/author/nino-fija%C4%8Dko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/author/nino-fijacko/"
+                href="//localhost:4321/author/nino-fija%C4%8Dko/"
                 />
   </url><url>
-    <loc>//localhost:4321/author/primoz-kocbek/</loc>
+    <loc>//localhost:4321/author/primo%C5%BE-kocbek/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4322/si/author/primoz-kocbek/"
+                href="http://localhost:4322/si/author/primo%C5%BE-kocbek/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/author/primoz-kocbek/"
+                href="//localhost:4321/author/primo%C5%BE-kocbek/"
                 />
   </url><url>
     <loc>//localhost:4321/author/robert-greif/</loc>
@@ -366,18 +366,18 @@
                 href="//localhost:4321/author/ruth-masterson-creber/"
                 />
   </url><url>
-    <loc>//localhost:4321/author/spela-metlicar/</loc>
+    <loc>//localhost:4321/author/%C5%A1pela-metli%C4%8Dar/</loc>
     <lastmod>2024-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4322/si/author/spela-metlicar/"
+                href="http://localhost:4322/si/author/%C5%A1pela-metli%C4%8Dar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/author/spela-metlicar/"
+                href="//localhost:4321/author/%C5%A1pela-metli%C4%8Dar/"
                 />
   </url><url>
     <loc>//localhost:4321/publication/03_res_plus_2024/</loc>
@@ -434,18 +434,18 @@
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:4321/author/janja-kamensek/</loc>
+    <loc>//localhost:4321/author/janja-kamen%C5%A1ek/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4322/si/author/janja-kamensek/"
+                href="http://localhost:4322/si/author/janja-kamen%C5%A1ek/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/author/janja-kamensek/"
+                href="//localhost:4321/author/janja-kamen%C5%A1ek/"
                 />
   </url><url>
     <loc>//localhost:4321/author/jeroen-ooge/</loc>
@@ -853,17 +853,17 @@
                 href="//localhost:4321/admin/"
                 />
   </url><url>
-    <loc>//localhost:4321/author/alenka-novsak/</loc>
+    <loc>//localhost:4321/author/alenka-nov%C5%A1ak/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4322/si/author/alenka-novsak/"
+                href="http://localhost:4322/si/author/alenka-nov%C5%A1ak/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/author/alenka-novsak/"
+                href="//localhost:4321/author/alenka-nov%C5%A1ak/"
                 />
   </url><url>
     <loc>//localhost:4321/author/aziz-sheikh/</loc>
@@ -983,30 +983,30 @@
                 href="//localhost:4321/author/goran-hrovat/"
                 />
   </url><url>
-    <loc>//localhost:4321/author/isa-brito-felix/</loc>
+    <loc>//localhost:4321/author/isa-brito-f%C3%A9lix/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4322/si/author/isa-brito-felix/"
+                href="http://localhost:4322/si/author/isa-brito-f%C3%A9lix/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/author/isa-brito-felix/"
+                href="//localhost:4321/author/isa-brito-f%C3%A9lix/"
                 />
   </url><url>
-    <loc>//localhost:4321/author/kasandra-musovic/</loc>
+    <loc>//localhost:4321/author/kasandra-musovi%C4%87/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:4322/si/author/kasandra-musovic/"
+                href="http://localhost:4322/si/author/kasandra-musovi%C4%87/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/author/kasandra-musovic/"
+                href="//localhost:4321/author/kasandra-musovi%C4%87/"
                 />
   </url><url>
     <loc>//localhost:4321/author/katja-braam/</loc>
