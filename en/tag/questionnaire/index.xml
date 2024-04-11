@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Questionnaire | </title>
-    <link>//localhost:4321/en/tag/questionnaire/</link>
-      <atom:link href="//localhost:4321/en/tag/questionnaire/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/en/tag/questionnaire/</link>
+      <atom:link href="http://localhost:4321/en/tag/questionnaire/index.xml" rel="self" type="application/rss+xml" />
     <description>Questionnaire</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
       <title>Questionnaire</title>
-      <link>//localhost:4321/en/tag/questionnaire/</link>
+      <link>http://localhost:4321/en/tag/questionnaire/</link>
     </image>
     
     <item>
       <title>Using heterogeneous sources of data and interpretability of prediction models to explain the characteristics of careless respondents in survey data</title>
-      <link>//localhost:4321/en/publication/06_scirep_2023/</link>
+      <link>http://localhost:4321/en/publication/06_scirep_2023/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/en/publication/06_scirep_2023/</guid>
+      <guid>http://localhost:4321/en/publication/06_scirep_2023/</guid>
       <description></description>
     </item>
     

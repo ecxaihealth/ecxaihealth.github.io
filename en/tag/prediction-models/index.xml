@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prediction Models | </title>
-    <link>//localhost:4321/en/tag/prediction-models/</link>
-      <atom:link href="//localhost:4321/en/tag/prediction-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/en/tag/prediction-models/</link>
+      <atom:link href="http://localhost:4321/en/tag/prediction-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Prediction Models</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
       <title>Prediction Models</title>
-      <link>//localhost:4321/en/tag/prediction-models/</link>
+      <link>http://localhost:4321/en/tag/prediction-models/</link>
     </image>
     
     <item>
       <title>Enriched conversational XAI methods for healthcare</title>
-      <link>//localhost:4321/en/project/fwo-aris_2023-26/</link>
+      <link>http://localhost:4321/en/project/fwo-aris_2023-26/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/en/project/fwo-aris_2023-26/</guid>
+      <guid>http://localhost:4321/en/project/fwo-aris_2023-26/</guid>
       <description>&lt;p&gt;Main host institution: &lt;strong&gt;KU Leuven&lt;/strong&gt;&lt;br&gt;
 &lt;sub&gt;Supervisor: &lt;em&gt;Katrien Verbert&lt;/em&gt; (Informatics Section, KU Leuven)&lt;/sub&gt;&lt;/p&gt;
 &lt;p&gt;Foreign host institution: &lt;strong&gt;University of Maribor&lt;/strong&gt;&lt;br&gt;
