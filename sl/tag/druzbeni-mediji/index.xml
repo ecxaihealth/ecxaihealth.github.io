@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Družbeni Mediji | </title>
-    <link>https://ecxaihealth.github.io/sl/tag/druzbeni-mediji/</link>
-      <atom:link href="https://ecxaihealth.github.io/sl/tag/druzbeni-mediji/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4322/sl/tag/druzbeni-mediji/</link>
+      <atom:link href="http://localhost:4322/sl/tag/druzbeni-mediji/index.xml" rel="self" type="application/rss+xml" />
     <description>Družbeni Mediji</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language><lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecxaihealth.github.io/en/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
       <title>Družbeni Mediji</title>
-      <link>https://ecxaihealth.github.io/sl/tag/druzbeni-mediji/</link>
+      <link>http://localhost:4322/sl/tag/druzbeni-mediji/</link>
     </image>
     
     <item>
       <title>Sentiment Analysis of Social Media Users’ Emotional Response to Sudden Cardiac Arrest During a Football Broadcast</title>
-      <link>https://ecxaihealth.github.io/sl/publication/03_jama_open_2023/</link>
+      <link>http://localhost:4322/sl/publication/03_jama_open_2023/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ecxaihealth.github.io/sl/publication/03_jama_open_2023/</guid>
+      <guid>http://localhost:4322/sl/publication/03_jama_open_2023/</guid>
       <description></description>
     </item>
     

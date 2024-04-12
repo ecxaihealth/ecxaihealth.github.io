@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carolina Chabrera Sanz | </title>
-    <link>https://ecxaihealth.github.io/sl/author/carolina-chabrera-sanz/</link>
-      <atom:link href="https://ecxaihealth.github.io/sl/author/carolina-chabrera-sanz/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4322/sl/author/carolina-chabrera-sanz/</link>
+      <atom:link href="http://localhost:4322/sl/author/carolina-chabrera-sanz/index.xml" rel="self" type="application/rss+xml" />
     <description>Carolina Chabrera Sanz</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language>
     <image>
-      <url>https://ecxaihealth.github.io/sl/author/carolina-chabrera-sanz/avatar_hueee538a0bd71b6b2c86acf6593badc25_15773_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:4322/sl/author/carolina-chabrera-sanz/avatar_hueee538a0bd71b6b2c86acf6593badc25_15773_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Carolina Chabrera Sanz</title>
-      <link>https://ecxaihealth.github.io/sl/author/carolina-chabrera-sanz/</link>
+      <link>http://localhost:4322/sl/author/carolina-chabrera-sanz/</link>
     </image>
     
   </channel>
