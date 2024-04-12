@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zdravstveno Obnašanje | </title>
-    <link>http://localhost:4322/sl/tag/zdravstveno-obnasanje/</link>
-      <atom:link href="http://localhost:4322/sl/tag/zdravstveno-obnasanje/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecxaihealth.github.io/sl/tag/zdravstveno-obnasanje/</link>
+      <atom:link href="https://ecxaihealth.github.io/sl/tag/zdravstveno-obnasanje/index.xml" rel="self" type="application/rss+xml" />
     <description>Zdravstveno Obnašanje</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language><lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ecxaihealth.github.io/media/icon_hua458bc049e138b8d711ef728e263490b_6671_512x512_fill_lanczos_center_3.png</url>
       <title>Zdravstveno Obnašanje</title>
-      <link>http://localhost:4322/sl/tag/zdravstveno-obnasanje/</link>
+      <link>https://ecxaihealth.github.io/sl/tag/zdravstveno-obnasanje/</link>
     </image>
     
     <item>
       <title>Self-Care Oriented Smartphone Apps for Type 2 Diabetes: A Comparative Analysis</title>
-      <link>http://localhost:4322/sl/publication/06_ceciis_2023/</link>
+      <link>https://ecxaihealth.github.io/sl/publication/06_ceciis_2023/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4322/sl/publication/06_ceciis_2023/</guid>
+      <guid>https://ecxaihealth.github.io/sl/publication/06_ceciis_2023/</guid>
       <description></description>
     </item>
     

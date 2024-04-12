@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Esther Cabrera Torres | </title>
-    <link>http://localhost:4321/author/esther-cabrera-torres/</link>
-      <atom:link href="http://localhost:4321/author/esther-cabrera-torres/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecxaihealth.github.io/author/esther-cabrera-torres/</link>
+      <atom:link href="https://ecxaihealth.github.io/author/esther-cabrera-torres/index.xml" rel="self" type="application/rss+xml" />
     <description>Esther Cabrera Torres</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
     <image>
-      <url>http://localhost:4321/author/esther-cabrera-torres/avatar_hu590f2d7bb7a1c133b97d05e1efe92443_25203_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ecxaihealth.github.io/author/esther-cabrera-torres/avatar_hu590f2d7bb7a1c133b97d05e1efe92443_25203_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Esther Cabrera Torres</title>
-      <link>http://localhost:4321/author/esther-cabrera-torres/</link>
+      <link>https://ecxaihealth.github.io/author/esther-cabrera-torres/</link>
     </image>
     
   </channel>
