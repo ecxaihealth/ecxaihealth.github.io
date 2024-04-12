@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simon Kocbek | </title>
-    <link>http://localhost:4321/author/simon-kocbek/</link>
-      <atom:link href="http://localhost:4321/author/simon-kocbek/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/en/author/simon-kocbek/</link>
+      <atom:link href="http://localhost:4321/en/author/simon-kocbek/index.xml" rel="self" type="application/rss+xml" />
     <description>Simon Kocbek</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
     <image>
-      <url>http://localhost:4321/author/simon-kocbek/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:4321/en/author/simon-kocbek/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Simon Kocbek</title>
-      <link>http://localhost:4321/author/simon-kocbek/</link>
+      <link>http://localhost:4321/en/author/simon-kocbek/</link>
     </image>
     
   </channel>

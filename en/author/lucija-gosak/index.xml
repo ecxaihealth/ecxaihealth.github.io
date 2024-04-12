@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lucija Gosak | </title>
-    <link>http://localhost:4321/author/lucija-gosak/</link>
-      <atom:link href="http://localhost:4321/author/lucija-gosak/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/en/author/lucija-gosak/</link>
+      <atom:link href="http://localhost:4321/en/author/lucija-gosak/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucija Gosak</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/author/lucija-gosak/avatar_hu45080e4ce1655aeb224eadedf9ea1029_25639_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:4321/en/author/lucija-gosak/avatar_hu45080e4ce1655aeb224eadedf9ea1029_25639_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Lucija Gosak</title>
-      <link>http://localhost:4321/author/lucija-gosak/</link>
+      <link>http://localhost:4321/en/author/lucija-gosak/</link>
     </image>
     
     <item>
       <title>EXMOS: Explanatory Model Steering Through Multifaceted Explanations and Data Configurations</title>
-      <link>http://localhost:4321/publication/09_chi_2024/</link>
+      <link>http://localhost:4321/en/publication/09_chi_2024/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/09_chi_2024/</guid>
+      <guid>http://localhost:4321/en/publication/09_chi_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nurses’ occupational physical activity and workload in a perioperative intensive care unit in Slovenia</title>
-      <link>http://localhost:4321/publication/07_prevmedrep_2024/</link>
+      <link>http://localhost:4321/en/publication/07_prevmedrep_2024/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/07_prevmedrep_2024/</guid>
+      <guid>http://localhost:4321/en/publication/07_prevmedrep_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Care Oriented Smartphone Apps for Type 2 Diabetes: A Comparative Analysis</title>
-      <link>http://localhost:4321/publication/04_ceciis_2023/</link>
+      <link>http://localhost:4321/en/publication/04_ceciis_2023/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/04_ceciis_2023/</guid>
+      <guid>http://localhost:4321/en/publication/04_ceciis_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving primary healthcare workflow using extreme summarization of scientific literature based on generative AI</title>
-      <link>http://localhost:4321/publication/05_dshealth_2023/</link>
+      <link>http://localhost:4321/en/publication/05_dshealth_2023/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/05_dshealth_2023/</guid>
+      <guid>http://localhost:4321/en/publication/05_dshealth_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of artificial intelligence-based question-answering systems in healthcare</title>
-      <link>http://localhost:4321/publication/01_wires_2023/</link>
+      <link>http://localhost:4321/en/publication/01_wires_2023/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/01_wires_2023/</guid>
+      <guid>http://localhost:4321/en/publication/01_wires_2023/</guid>
       <description></description>
     </item>
     
