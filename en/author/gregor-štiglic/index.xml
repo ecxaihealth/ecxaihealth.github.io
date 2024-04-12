@@ -2,93 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gregor Štiglic | </title>
-    <link>http://localhost:4321/en/author/gregor-%C5%A1tiglic/</link>
-      <atom:link href="http://localhost:4321/en/author/gregor-%C5%A1tiglic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecxaihealth.github.io/author/gregor-%C5%A1tiglic/</link>
+      <atom:link href="https://ecxaihealth.github.io/author/gregor-%C5%A1tiglic/index.xml" rel="self" type="application/rss+xml" />
     <description>Gregor Štiglic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/en/author/gregor-%C5%A1tiglic/avatar_hu45080e4ce1655aeb224eadedf9ea1029_24828_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ecxaihealth.github.io/author/gregor-%C5%A1tiglic/avatar_hu45080e4ce1655aeb224eadedf9ea1029_24828_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gregor Štiglic</title>
-      <link>http://localhost:4321/en/author/gregor-%C5%A1tiglic/</link>
+      <link>https://ecxaihealth.github.io/author/gregor-%C5%A1tiglic/</link>
     </image>
     
     <item>
-      <title>EXMOS: Explanatory Model Steering Through Multifaceted Explanations and Data Configurations</title>
-      <link>http://localhost:4321/en/publication/09_chi_2024/</link>
-      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/09_chi_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Using Generative AI to Improve the Performance and Interpretability of Rule-Based Diagnosis of Type 2 Diabetes Mellitus</title>
-      <link>http://localhost:4321/en/publication/08_infor_2024/</link>
+      <link>https://ecxaihealth.github.io/publication/08_infor_2024/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/08_infor_2024/</guid>
+      <guid>https://ecxaihealth.github.io/publication/08_infor_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using generative artificial intelligence in bibliometric analysis: 10 years of research trends from the European Resuscitation Congresses</title>
-      <link>http://localhost:4321/en/publication/03_res_plus_2024/</link>
+      <link>https://ecxaihealth.github.io/publication/03_res_plus_2024/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/03_res_plus_2024/</guid>
+      <guid>https://ecxaihealth.github.io/publication/03_res_plus_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nurses’ occupational physical activity and workload in a perioperative intensive care unit in Slovenia</title>
-      <link>http://localhost:4321/en/publication/07_prevmedrep_2024/</link>
+      <link>https://ecxaihealth.github.io/publication/07_prevmedrep_2024/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/07_prevmedrep_2024/</guid>
+      <guid>https://ecxaihealth.github.io/publication/07_prevmedrep_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Care Oriented Smartphone Apps for Type 2 Diabetes: A Comparative Analysis</title>
-      <link>http://localhost:4321/en/publication/04_ceciis_2023/</link>
+      <link>https://ecxaihealth.github.io/publication/04_ceciis_2023/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/04_ceciis_2023/</guid>
+      <guid>https://ecxaihealth.github.io/publication/04_ceciis_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using heterogeneous sources of data and interpretability of prediction models to explain the characteristics of careless respondents in survey data</title>
-      <link>http://localhost:4321/en/publication/06_scirep_2023/</link>
+      <link>https://ecxaihealth.github.io/publication/06_scirep_2023/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/06_scirep_2023/</guid>
+      <guid>https://ecxaihealth.github.io/publication/06_scirep_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving primary healthcare workflow using extreme summarization of scientific literature based on generative AI</title>
-      <link>http://localhost:4321/en/publication/05_dshealth_2023/</link>
+      <link>https://ecxaihealth.github.io/publication/05_dshealth_2023/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/05_dshealth_2023/</guid>
+      <guid>https://ecxaihealth.github.io/publication/05_dshealth_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment Analysis of Social Media Users’ Emotional Response to Sudden Cardiac Arrest During a Football Broadcast</title>
-      <link>http://localhost:4321/en/publication/05_jama_open_2023/</link>
+      <link>https://ecxaihealth.github.io/publication/05_jama_open_2023/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/05_jama_open_2023/</guid>
+      <guid>https://ecxaihealth.github.io/publication/05_jama_open_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Directive Explanations for Monitoring the Risk of Diabetes Onset: Introducing Directive Data-Centric Explanations and Combinations to Support What-If Explorations</title>
-      <link>http://localhost:4321/en/publication/02_iui_2023/</link>
+      <link>https://ecxaihealth.github.io/publication/02_iui_2023/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/02_iui_2023/</guid>
+      <guid>https://ecxaihealth.github.io/publication/02_iui_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of artificial intelligence-based question-answering systems in healthcare</title>
-      <link>http://localhost:4321/en/publication/01_wires_2023/</link>
+      <link>https://ecxaihealth.github.io/publication/01_wires_2023/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/01_wires_2023/</guid>
+      <guid>https://ecxaihealth.github.io/publication/01_wires_2023/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Creber | </title>
-    <link>http://localhost:4321/en/author/peter-creber/</link>
-      <atom:link href="http://localhost:4321/en/author/peter-creber/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecxaihealth.github.io/author/peter-creber/</link>
+      <atom:link href="https://ecxaihealth.github.io/author/peter-creber/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Creber</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
     <image>
-      <url>http://localhost:4321/en/author/peter-creber/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ecxaihealth.github.io/author/peter-creber/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Peter Creber</title>
-      <link>http://localhost:4321/en/author/peter-creber/</link>
+      <link>https://ecxaihealth.github.io/author/peter-creber/</link>
     </image>
     
   </channel>

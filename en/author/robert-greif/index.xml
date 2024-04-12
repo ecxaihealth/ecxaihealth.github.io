@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Greif | </title>
-    <link>http://localhost:4321/en/author/robert-greif/</link>
-      <atom:link href="http://localhost:4321/en/author/robert-greif/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ecxaihealth.github.io/author/robert-greif/</link>
+      <atom:link href="https://ecxaihealth.github.io/author/robert-greif/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Greif</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/en/author/robert-greif/avatar_hu2acff7072c176ca4b3a0cf8458c356b6_82870_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ecxaihealth.github.io/author/robert-greif/avatar_hu2acff7072c176ca4b3a0cf8458c356b6_82870_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Robert Greif</title>
-      <link>http://localhost:4321/en/author/robert-greif/</link>
+      <link>https://ecxaihealth.github.io/author/robert-greif/</link>
     </image>
     
     <item>
       <title>Using generative artificial intelligence in bibliometric analysis: 10 years of research trends from the European Resuscitation Congresses</title>
-      <link>http://localhost:4321/en/publication/03_res_plus_2024/</link>
+      <link>https://ecxaihealth.github.io/publication/03_res_plus_2024/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/03_res_plus_2024/</guid>
+      <guid>https://ecxaihealth.github.io/publication/03_res_plus_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment Analysis of Social Media Users’ Emotional Response to Sudden Cardiac Arrest During a Football Broadcast</title>
-      <link>http://localhost:4321/en/publication/05_jama_open_2023/</link>
+      <link>https://ecxaihealth.github.io/publication/05_jama_open_2023/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/en/publication/05_jama_open_2023/</guid>
+      <guid>https://ecxaihealth.github.io/publication/05_jama_open_2023/</guid>
       <description></description>
     </item>
     

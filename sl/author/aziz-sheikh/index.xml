@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aziz Sheikh | </title>
-    <link>http://localhost:4322/sl/author/aziz-sheikh/</link>
-      <atom:link href="http://localhost:4322/sl/author/aziz-sheikh/index.xml" rel="self" type="application/rss+xml" />
+    <link>/sl/author/aziz-sheikh/</link>
+      <atom:link href="/sl/author/aziz-sheikh/index.xml" rel="self" type="application/rss+xml" />
     <description>Aziz Sheikh</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sl</language>
     <image>
-      <url>http://localhost:4322/sl/author/aziz-sheikh/avatar_hue1ef4bfe89cdf6917e2b09ad96e647c4_5302_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/sl/author/aziz-sheikh/avatar_hue1ef4bfe89cdf6917e2b09ad96e647c4_5302_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Aziz Sheikh</title>
-      <link>http://localhost:4322/sl/author/aziz-sheikh/</link>
+      <link>/sl/author/aziz-sheikh/</link>
     </image>
     
   </channel>
